@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bok Storage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Ki-Bok"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,11 +95,11 @@ analytics:
 author:
   name             : "Ki-Bok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person. 설명은 나중에 UPDATE"
+  bio              : "설명은 **나중에** UPDATE"
   location         : "South Korea"
-  email            :"nkb7714@naver.com"
+  email            : nkb7714@naver.com
   links:
-    - label: "Email"
+    - label: "nkb7714@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
