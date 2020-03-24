@@ -1,9 +1,12 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+layout: single
 ---
 
 
 
-ABOUT TEST
+## nam-ki-bok.github.io 블로그
+
+TEST VERSION ABOUT PAGE
 
