@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BOK STORAGE"
+title                    : "🌏BOK STORAGE 🌏"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KIBOK"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "KIBOK"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BLOG 설명은 **나중에**"
+  bio              : "🍄🍄🍄🍄🍄"
   location         : "SeongNam, Korea"
   email            :
   links:
