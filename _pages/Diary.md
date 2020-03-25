@@ -1,7 +1,11 @@
 ---
-title: "매일매일 PLAN 작성"
+title: "Diary"
 permalink: /categories/Diary/
 layout: category
 author_profile: true
 taxonomy: Diary
 ---
+
+
+
+**To Do List 작성 겸 일기장**
