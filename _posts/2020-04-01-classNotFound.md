@@ -11,9 +11,9 @@ tags:
 
 - ## classNotFoundException 오류
 
-  데이터베이스 실습을 하던 도중 classNotFoundException 오류가 생겼다.
+  데이터베이스 연동 실습을 하던 도중 classNotFoundException 오류가 생겼다.
 
-  근데 또 이 오류가 생겼지만 ?
+  그런데 이 오류가 생겼지만 ?
 
   데이터베이스 연동 후 출력까지 다 됐다.
 
