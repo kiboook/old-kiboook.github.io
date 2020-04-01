@@ -4,6 +4,8 @@ main:
     url: /categories/Diary/
   - title: "How To"
     url: /categories/HowTo/
+  - title: "Algorithm"
+    url: /categories/Algorithm/
   - title: "Categories"
     url: /categories/
   - title: "About"
