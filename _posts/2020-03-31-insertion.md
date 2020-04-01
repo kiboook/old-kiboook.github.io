@@ -55,20 +55,24 @@ tags:
       int i, j, key;
       
       // 배열의 원소 개수 - 1 만큼 반복한다.
-      for(i = 1; i < arrSize; i++) {
+      for(i=1; i<arrSize; i++) {
           key = arr[i];
-          for(j = i - 1; j >= 0; j--) {
+          for(j=i-1; j>=0; j--) {
               if(key < arr[j]) {
                   arr[j+1] = arr[j]; // key 값 보다 크다면 오른쪽으로 한칸 이동
-              
               else
                   break;
           }
           arr[j+1] = key; // 비교 후 j 값은 key 값이 삽입될 위치 - 1 이 되므로
-  
       }
   }
   ```
+  
+  이 정도로 표현 할 수 있겠다.
+  
+  이중 포문 안에 조건문을 사용하지 않고 한줄로 처리할 수 있다.
+  
+  그 방법도 한 번 생각해보자.
   
   
 
