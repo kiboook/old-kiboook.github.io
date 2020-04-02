@@ -17,6 +17,8 @@ tags:
 
   선택정렬은 삽입할 위치를 정한 후 그 위치에 들어갈 값을 찾아 넣어준다.
 
+  <br>
+
   ![](https://nam-ki-bok.github.io/assets/images/algorithm/selection.png)
 
   위 이미지는 **<span style="color:red">sortLoc</span>**를 통해 삽입할 위치를 정하고
@@ -24,7 +26,7 @@ tags:
   <span style="color:red">**minLoc**</span>를 통해 최솟값 위치를 찾아 Swap 해주는 방식이다.
 
   <br>
-
+  
   코드로 보자면
   
   ```c
