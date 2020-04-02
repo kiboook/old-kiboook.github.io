@@ -1,5 +1,6 @@
 ---
 title:  "[Algorithm] 삽입정렬 - Insertion Sort"
+excerpt: ""
 
 categories:
   - Algorithm

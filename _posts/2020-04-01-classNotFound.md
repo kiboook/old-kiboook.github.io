@@ -1,5 +1,6 @@
 ---
 title:  "[How To] classNotFoundException 오류 해결"
+excerpt: ""
 
 categories:
   - How To
