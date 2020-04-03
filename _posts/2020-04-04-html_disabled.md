@@ -21,27 +21,36 @@ tags:
 
   이때 disabled와 readonly 속성이 있는데 둘의 차이점을 알아보자.
 
-  
-
   #### disabled
 
+  <form action="">
+<label for="lname">성</label><br>
+    <input type="text" id="lname" name="lname" value="홍" disabled><br>
+  <label for="fname">이름</label><br>
+    <input type="text" id="fname" name="fname" value="길동"><br><br>
+  </form>
+  
   ```html
-<form action="">
+  <form action="">
     <label for="fname">성</label><br>
-  <input type="text" id="fname" name="fname" value="홍" disabled><br>
+    <input type="text" id="fname" name="fname" value="홍" disabled><br>
     <label for="lname">이름</label><br>
     <input type="text" id="lname" name="lname" value="길동"><br><br>
     <input type="submit" value="Submit">
   </form>
-  
   ```
   
-  '홍' 값은 변경 할 수 없다.
   
   
   
   #### readonly
   
+  <form action="">
+    <label for="fname">성</label><br>
+    <input type="text" id="fname" name="fname" value="홍" disabled><br>
+    <label for="lname">이름</label><br>
+    <input type="text" id="lname" name="lname" value="길동"><br><br>
+  </form>
   ```html
   <form action="">
     <label for="fname">성</label><br>
@@ -50,16 +59,11 @@ tags:
     <input type="text" id="lname" name="lname" value="길동"><br><br>
     <input type="submit" value="Submit">
   </form>
-  
   ```
-  
-  '홍' 값은 변경 할 수 없다.
   
   <br>
   
-  그렇다면 둘의 차이점은 무엇일까 ?
+  둘 다 수정할 수 없는 공통점이 있지만
   
-  **form을 통해 데이터를 전송할때 disabled 값은 전송되지 않는다.**
-  
-  
+  **disabled**는 **데이터를 서버로 보낼 수 없다.**
 
