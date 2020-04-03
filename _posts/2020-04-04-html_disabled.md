@@ -1,5 +1,5 @@
 ---
-title:  "[HTML] input속성 disabled와 readonly의 차이점"
+title:  "[HTML] input 태그 disabled와 readonly의 차이점"
 excerpt: ""
 
 categories:
