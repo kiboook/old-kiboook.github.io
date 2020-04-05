@@ -135,13 +135,11 @@ a {
     }
 
     &:visited {
-//        color: $link-color-visited;
-          color: teal;
+        color: $link-color-visited;
     }
 
     &:hover {
-//        color: $link-color-hover;
-          color: blueviolet;
+        color: $link-color-hover;
         outline: 0;
     }
 }
