@@ -79,8 +79,7 @@ tags:
       // 임시 배열에서 본 배열로 복사한다
       for (i = left; i <= right; i++) {
           arr[i] = tmpArr[i];
-      }
-      
+      }   
   }
   
   void merge (int *arr, int left, int right) {
