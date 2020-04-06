@@ -6,6 +6,8 @@ main:
     url: /categories/HowTo/
   - title: "Algorithm"
     url: /categories/Algorithm/
+  - title: "HTML"
+    url: /categories/HTML/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
