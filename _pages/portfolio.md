@@ -15,5 +15,5 @@ author_profile: true
 
 ​	19-2 Java Programming
 
-​	[1. README]([https://nam-ki-bok.github.io/falling%20grade/project_test/](https://nam-ki-bok.github.io/falling grade/project_test/))
+​	[1. README](https://nam-ki-bok.github.io/falling grade/project_test/)
 
