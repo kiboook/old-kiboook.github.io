@@ -13,5 +13,4 @@ author_profile: true
 
 # Falling Grade <span style="font-size:15px; color:darkolivegreen;">19-2 Java Programming</span>
 
-​	[1. README](https://nam-ki-bok.github.io/falling grade/project_test/)
-
+​	[1. README](https://nam-ki-bok.github.io/falling grade/Falling_Grade_README/)
