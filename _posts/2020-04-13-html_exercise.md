@@ -45,5 +45,47 @@ tags:
 
    <br>
 
-7. <del>blue</del> 취소선은 `<del> </del>` 태그를 사용한다.
+7. <span style="color:blue"><del>blue</del></span> 취소선은 `<del> </del>` 태그를 사용한다.
+
+   <br>
+
+8. <q>Hello</q> `<q> </q>`
+
+   <br>
+
+9. text가 긴 인용문은 `<blockquote cite="link"> ~ </blockquote>` 태그를 사용한다.
+
+   <br>
+
+10. 글씨가 써지는 방향 지정은 `<bdo dir="rtl"> ~ </bdo>` 태그를 사용한다.
+
+    ex)  <bdo dir="rtl">이렇게 하면 거꾸로 써지지용?</bdo>
+
+    <br>
+
+11. 줄임말 표시는 `<abbr title="줄이기 전 단어">줄인 단어</abbr>` 마우스를 올려보면 줄이기 전 단어가 보인다.
+
+    ex) <abbr title="World Health Oranization">WHO</abbr>
+
+    <br>
+
+12. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
