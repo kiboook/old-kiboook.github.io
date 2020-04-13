@@ -59,21 +59,52 @@ tags:
 
 10. 글씨가 써지는 방향 지정은 `<bdo dir="rtl"> ~ </bdo>` 태그를 사용한다.
 
-    ex)  <bdo dir="rtl">이렇게 하면 거꾸로 써지지용?</bdo>
+    ex )  <bdo dir="rtl">이렇게 하면 거꾸로 써지지용?</bdo>
 
     <br>
 
 11. 줄임말 표시는 `<abbr title="줄이기 전 단어">줄인 단어</abbr>` 마우스를 올려보면 줄이기 전 단어가 보인다.
 
-    ex) <abbr title="World Health Oranization">WHO</abbr>
+    ex ) <abbr title="World Health Oranization">WHO</abbr>
 
     <br>
 
-12. 
+12. `<a href="https://nam-ki-bok.github.io" style="text-decoration:none"> ~ </a>` 링크 밑줄 없애기
 
+    <br>
 
+13. `<a href="https://nam-ki-bok.github.io" target="_blank"> ~ </a>` 링크 클릭 시 새창으로 띄우기
 
+    <br>
 
+14. 표의 제목은 `<caption> </caption>` 이다.
+
+    <br>
+
+15. `<ul>`의 모양을 바꾸려면 `<ul style="list-style-type: square">`
+
+    <br>
+
+16. `<ol>`의 숫자를 바꾸려면 `<ol type="A, a, I, i">`
+
+    <br>
+
+17. 용어를 정의하려면 `<dl> <dt> <dd>`를 사용한다.
+
+    ex )
+
+    ```html
+    <dl>
+      <dt>Milk</dt>
+       <dd>Mint Choco Milk</dd>
+      <dt>Cookie</dt>
+       <dd>Mint Choco Cookie</dd>
+    </dl>
+    ```
+
+    <br>
+
+18. `<iframe src="link" width="1024">`
 
 
 
