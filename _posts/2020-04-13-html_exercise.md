@@ -6,7 +6,7 @@ categories:
   - HTML
 
 tags:
-  - HTML
+  - w3school
 ---
 
 # <span style="font-size:20px">웹 프로그래밍 Quiz #1 대비 틀린 문제 모음</span>
@@ -104,11 +104,60 @@ tags:
 
     <br>
 
-18. `<iframe src="link" width="1024">`
+18. `<iframe src="link" width="1024"></iframe>` iframe 태그를 사용 하는 경우 width 값 설정을 이런 식으로 한다.
 
+    <br>
 
+19. input value를 서버로 넘기려면 ?
 
+    ```html
+     <form action="/action_page.php">
+      Name: <input type="text" name="name">
+      <input type="submit">
+    </form>
+    ```
 
+    <form>
+      Name: <input type="text" name="name">
+      <input type="submit" value="임시제출버튼 클릭금지">
+    </form>
+
+    <br>
+
+20. Drop Down Box는 어떻게 만들까 ?
+
+    ```html
+    <form action="/action_page.php">
+      <select name="cars">
+        <option value="Volvo">Volvo</option>
+        <option value="BMW">BMW</option>
+        <option value="Benz">Benz</option>
+      </select>
+      <input type="submit">
+    </form>
+    ```
+
+    <form action="/action_page.php">
+      <select name="cars">
+        <option value="Volvo">Volvo</option>
+        <option value="BMW">BMW</option>
+        <option value="Benz">Benz</option>
+      </select>
+    </form>
+
+    <br>
+
+21. Text 입력 창에 placeholder를 띄우려면 ?
+
+    ```html
+    <form action="/action_page.php">
+      Name: <input type="text" placeholder="Input Your Name">
+    </form>
+    ```
+
+    <form action="/action_page.php">
+      Name: <input type="text" placeholder="Input Your Name">
+    </form>
 
 
 
