@@ -32,9 +32,7 @@ tags:
   
   `defaults write com.oracle.workbench.MySQLWorkbench NSRequiresAquaSystemAppearance -bool yes`
   
-  해당 명령을 입력하자
-  
-  그리고 재접속을 하면
+  해당 명령을 입력하자 그리고 재접속을 하면
   
   ![](https://nam-ki-bok.github.io/assets/images/howto/workbench2.png)
   
