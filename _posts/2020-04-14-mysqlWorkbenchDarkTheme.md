@@ -1,5 +1,5 @@
 ---
-title:  "[How To] Mac에서 MySQL Workbench 다크모드 해제"
+title:  "[How To] Mac에서 MySQL Workbench 다크모드 해제하기"
 excerpt: ""
 
 categories:
@@ -28,6 +28,14 @@ tags:
   
   이리저리 구글링 해본결과 답은 workbench만 Light mode로 되돌리는 방법이 최선이라고 한다.
   
-   
+  터미널을 열고
   
+  `defaults write com.oracle.workbench.MySQLWorkbench NSRequiresAquaSystemAppearance -bool yes`
   
+  해당 명령을 입력하자
+  
+  그리고 재접속을 하면
+  
+  ![](https://nam-ki-bok.github.io/assets/images/howto/workbench2.png)
+  
+  쨍 한 흰색이 아니고 밝은 회색 느낌이라 다른 프로그램의 라이트 모드보다 훨씬 보기 편하다.
