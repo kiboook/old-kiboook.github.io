@@ -9,7 +9,7 @@ tags:
   - w3school
 ---
 
-# <span style="font-size:20px">웹 프로그래밍 Quiz #1 대비 틀린 문제 모음</span>
+# <span style="font-size:20px">웹 프로그래밍 Quiz #1 대비 Exercise 틀린 문제 모음</span>
 
 ***
 
