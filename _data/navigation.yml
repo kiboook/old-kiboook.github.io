@@ -10,6 +10,10 @@ main:
     url: /categories/HTML/
   - title: "Portfolio"
     url: /categories/portfolio/
+  - title: "Semester"
+    url: /categories/semester/
+  - title: "Category"
+    url: /categories/
   - title: "About"
     url: /about/
   # - title: "About"
