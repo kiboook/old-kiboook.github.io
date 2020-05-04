@@ -1,5 +1,5 @@
 ---
-title: "Cartegories"
+title: "Cartegory"
 layout: categories
 permalink: /categories/
 author_profile: true
