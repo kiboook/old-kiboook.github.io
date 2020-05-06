@@ -27,8 +27,13 @@ tags:
   
   /_sass/minimal-mistakes/_navigation.scss 파일을 수정 하면 원하는 디자인으로 만들 수 있다.
   
+  <br>
+  
+  수정 commit 링크이다.
+  
   <a href="https://github.com/Nam-Ki-Bok/nam-ki-bok.github.io/commit/d4e591f403ffce7199cc1ed202b3c9ef31dca683#diff-b8480c9e5e376f2d5eaaa9da9c649a3f" target="_blank" style="color:green">밑줄 굵기 조절</a>
   
   <a href="https://github.com/Nam-Ki-Bok/nam-ki-bok.github.io/commit/6773362cc41a0302901ff48d3d41ef199801a118#diff-b8480c9e5e376f2d5eaaa9da9c649a3f" target="_blank" style="color:green">밑줄 padding 조절</a> 
   
   앞으로 계속 수정 하면서 나에게 맞는 디자인으로 바꿔야겠다..
+
