@@ -11,7 +11,9 @@ author_profile: true
 
 <br>
 
-# Falling Grade <span style="font-size:15px; color:darkolivegreen;">19-2 Java Programming</span>
+# Falling Grade
 
-​	[1. README](https://nam-ki-bok.github.io/falling grade/Falling_Grade_README/)
+1. <a href="https://nam-ki-bok.github.io/falling%20grade/Falling_Grade_README/" target="_blank" style="color:green">README</a>
+
+
 
