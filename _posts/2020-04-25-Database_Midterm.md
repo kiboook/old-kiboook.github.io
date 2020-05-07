@@ -3,7 +3,7 @@ title:  "[Database] Midterm Project"
 excerpt: ""
 
 categories:
-  - Howto
+  - How To
 
 tags:
   - 데이터베이스
