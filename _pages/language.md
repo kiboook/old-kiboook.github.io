@@ -11,4 +11,5 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/categories/HTML/">HTML / CSS</a>
 
-<a href="https://nam-ki-bok.github.io/categories/python/">Python</a>
+<a href="https://nam-ki-bok.github.io/categories/Python/">Python</a>
+
