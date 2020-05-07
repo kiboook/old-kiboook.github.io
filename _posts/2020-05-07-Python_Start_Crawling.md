@@ -26,3 +26,19 @@ tags:
 ## 파이썬 개발 환경 구축
 
 맥에는 기본적으로 파이썬이 설치 되어있는데 버전이 낮다.
+
+<code style="background-color:gray; color: white">python --version</code> 을 입력해 보면 파이썬 버전이 2.7.16으로 되어있다.
+
+그러니 얼른 Python3을 설치해주도록 하자.
+
+brew가 설치 되어있다는 전제 하에 구축 과정을 설명해보겠다 !
+
+<code style="background-color:gray; color: white">curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code> 
+
+<code style="background-color:gray; color: white">$sudo python3 get-pip.py</code> 
+
+<code style="background-color:gray; color: white">$sudo easy_install pip </code>
+
+<code style="background-color:gray; color: white">$pip3 install beautifulsoup4</code>
+
+<code style="background-color:gray; color: white">$pip3 install requests</code>
