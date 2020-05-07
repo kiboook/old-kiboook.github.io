@@ -7,6 +7,8 @@ categories:
 
 tags:
   - Crawling
+  - BeautifulSoup4
+  - requests
 ---
 
 ## Crawling
@@ -53,3 +55,4 @@ brew가 설치 되어있다는 전제 하에 구축 과정을 설명해보겠다
 
 전부 설치가 완료 되었다면 <code style="background-color:gray; color: white">$pip list</code> 를 통해 확인해보자.
 
+BeautifulSoup4, requests 가 설치 되어있다면 크롤링 할 준비는 완료 되었다 !
