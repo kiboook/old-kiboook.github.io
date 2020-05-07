@@ -8,6 +8,8 @@ main:
     url: /categories/Algorithm/
   - title: "HTML"
     url: /categories/HTML/
+  - title: "Language"
+    url: /categories/language/
   - title: "Portfolio"
     url: /categories/portfolio/
   - title: "Category"
