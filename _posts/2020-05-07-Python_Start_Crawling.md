@@ -39,6 +39,15 @@ brew가 설치 되어있다는 전제 하에 구축 과정을 설명해보겠다
 
 <code style="background-color:gray; color: white">$sudo easy_install pip </code>
 
+상기 명령까지 실행을 했다면 Python3 설치가 완료 되었다.
+
+이제 크롤링에 필요한 라이브러리를 설치 해야하는데 그냥 pip 명령을 통해 설치하면
+
+이 라이브러리가 python 2.7.16 버전이랑 연결이 되어버려 골치가 아팠다.
+
+
+
 <code style="background-color:gray; color: white">$pip3 install beautifulsoup4</code>
 
 <code style="background-color:gray; color: white">$pip3 install requests</code>
+
