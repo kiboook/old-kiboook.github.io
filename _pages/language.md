@@ -10,4 +10,3 @@ author_profile: true
 ---
 
 <a href="https://nam-ki-bok.github.io/categories/HTML/">HTML / CSS</a>
-
