@@ -52,7 +52,7 @@ print('현재 초미세먼지: '+find_ultra_dust)
 print('현재 오존지수: '+find_ozone)
 ```
 
-<a href="https://velog.io/@magnoliarfsit/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-2-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%82%A0%EC%94%A8-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0" style="color:green;" target="_blank">출처</a> 를 통해 기본을 아주 잘 익히게 되었다. 출처에 들어 가 본다면 이 코드에 관한 상세한 설명이 더 되어있다.
+<a href="https://velog.io/@magnoliarfsit/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-2-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%82%A0%EC%94%A8-%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0" style="color:#0FA678;" target="_blank">출처</a> 를 통해 기본을 아주 잘 익히게 되었다. 출처에 들어 가 본다면 이 코드에 관한 상세한 설명이 더 되어있다.
 
 내가 크롤링을 공부하면서 느낀 큰 틀은 내가 원하는 페이지의 코드를 가져와 파싱을 한 후 내가 원하는 부분을 골라 출력하는 것.
 
