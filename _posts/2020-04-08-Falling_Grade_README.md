@@ -3,7 +3,7 @@ title:  "[Falling Grade] README"
 excerpt: ""
 
 categories:
-  - Falling Grade
+  - FallingGrade
 
 tags:
   - Java
