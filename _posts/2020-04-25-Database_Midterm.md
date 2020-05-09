@@ -1,5 +1,5 @@
 ---
-title:  "[Database] Midterm Project"
+title:  "[Database] Midterm Assignment"
 excerpt: ""
 
 categories:
