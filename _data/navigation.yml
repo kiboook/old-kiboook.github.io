@@ -2,6 +2,8 @@
 main:
   - title: "Diary"
     url: /categories/Diary/
+  - title: "Semester"
+    url: /categories/Semester/
   - title: "How To"
     url: /categories/HowTo/
 #  - title: "Algorithm"
