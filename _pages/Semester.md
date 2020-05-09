@@ -10,6 +10,3 @@ author_profile: true
 ---
 
 <a href="https://nam-ki-bok.github.io/categories/3-1/" style="color: #0FA678; font-size: 20px">3-1</a>
-
-
-
