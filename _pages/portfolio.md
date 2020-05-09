@@ -11,9 +11,7 @@ author_profile: true
 
 <br>
 
-# Falling Grade
-
-1. <a href="https://nam-ki-bok.github.io/falling%20grade/Falling_Grade_README/" target="_blank" style="color:green">README</a>
+<a href="https://nam-ki-bok.github.io/categories/FallingGrade/">Falling Grade</a>
 
 
 
