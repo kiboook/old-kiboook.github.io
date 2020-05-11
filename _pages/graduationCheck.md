@@ -1,5 +1,5 @@
 ---
-title: "Graduation Check Project"
+title: "Creative Semester"
 permalink: /categories/GraduationCheck/
 layout: category
 author_profile: true
