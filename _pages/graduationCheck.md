@@ -1,8 +1,8 @@
 ---
 title: "Graduation Check Project"
-permalink: /categories/graduationCheck/
+permalink: /categories/GraduationCheck/
 layout: category
 author_profile: true
-taxonomy: graduationCheck
+taxonomy: GraduationCheck
 ---
 
