@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 기초 튼튼 처음부터 시작"
+title:  "[Python] 기초 튼튼 다지기_1"
 excerpt: ""
 
 categories:
