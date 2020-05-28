@@ -63,8 +63,8 @@ dict 자료형은 앞서 MongoDB 연동을 해 본적이 있는데 이때 접하
 
 ```python
 myDict = {
-  "name":"Google"
-  "year":"1996"
+	"name":"Google"
+	"year":"1996"
 }
 ```
 
