@@ -56,7 +56,7 @@ class Person:
     self.name = name
     self.age = age
     
-class Student:
+class Student(Person):
   def __init__(self, name, age, year):
     super().__init__(name, age)
     self.graduationYear = year
