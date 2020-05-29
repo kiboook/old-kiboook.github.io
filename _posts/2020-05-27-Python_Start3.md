@@ -1,5 +1,5 @@
 ---
-title:  "[Python] 기초 튼튼 다지기_3"
+title:  "[Python] 기초 튼튼 다지기 List"
 excerpt: ""
 
 categories:
