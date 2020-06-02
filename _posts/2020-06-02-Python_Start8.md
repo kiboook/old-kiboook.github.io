@@ -71,7 +71,7 @@ a : 추가 모드
 ```python
 # 쓰기 모드
 f = open("test.txt", "w")
-f.write("쓰기 모드는 기존의 file 내용위에 덮어 씌운다")
+f.write("쓰기 모드는 기존의 file 내용 위에 덮어 씌운다.")
 f.close()
 
 # 읽기 모드
@@ -79,6 +79,10 @@ f = open("test.txt", "r")
 print(f.read())
 f.close
 
-#
+# 추가 모드
+f = open("test.txt","a")
+f.write("추가 모드는 기존의 file 내용의 마지막에 이어 붙여진다.")
+f.close
 ```
 
+file 사용을 했으면 마지막엔 꼭 꼭 꼭 f.close() 를 통해 닫아주자 !!!
