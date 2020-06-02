@@ -1,5 +1,5 @@
 ---
-title:  "[How To] Mac에서 MySQL Workbench 다크모드 해제하기"
+title:  "[How To] Mac에서 MySQL Workbench dark theme 해제하기"
 excerpt: ""
 
 categories:
