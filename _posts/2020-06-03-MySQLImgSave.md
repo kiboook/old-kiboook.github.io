@@ -34,7 +34,7 @@ Image image = null;
 String urlStr="";
 				
 while(data.next()) {
-	urlStr = rs.getString(5);
+	   urlStr = rs.getString(5);
 	}
 				
 // URL로 부터 이미지 읽기
