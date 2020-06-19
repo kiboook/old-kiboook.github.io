@@ -10,7 +10,7 @@ tags:
 
 ## 방문 길이
 
-<a href="https://programmers.co.kr/learn/courses/30/lessons/49994" style="color:#0FA678">방문 길이</a> 을 클릭하면 바로 이동한다.
+<a href="https://programmers.co.kr/learn/courses/30/lessons/49994" style="color:#0FA678" target="_blank">방문 길이</a> 을 클릭하면 바로 이동한다.
 
 > 게임 캐릭터를 4가지 명령어를 통해 움직이려 합니다. 명령어는 다음과 같습니다.
 >
