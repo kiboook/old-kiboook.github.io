@@ -52,3 +52,6 @@ def solution(n, arr1, arr2):
 파이썬에선 이미 전부 함수로 존재하는 기능이었다..
 
 또 많은 걸 배워 간다..
+
+<a href="https://nam-ki-bok.github.io/python/Python_String/" style="color:#0FA678">[Python] String 과 zip 사용</a>
+
