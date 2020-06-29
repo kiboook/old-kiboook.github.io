@@ -27,6 +27,12 @@ author_profile: true
 
 <br>
 
+### 2018 KAKAO BLIND RECRUITMENT
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_SecretMap/" style="color:#0FA678">[Programmers] 비밀지도</a>
+
+<br>
+
 ### 2019 KAKAO BLIND RECRUITMENT
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Failure/" style="color:#0FA678">[Programmers] 실패율</a>
