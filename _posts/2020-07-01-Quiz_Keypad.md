@@ -38,7 +38,6 @@ def solution(numbers, hand):
 	right = [3, 6, 9]
 
 	for pinger in numbers:
-
 		if pinger in left:
 			answer += 'L'
 			curLeft = pinger
@@ -48,7 +47,6 @@ def solution(numbers, hand):
 			curRight = pinger
 
 		elif pinger in center:
-
 			leftDistance = abs(pinger - curLeft)
 			rightDistance = abs(pinger - curRight)
 
@@ -86,4 +84,12 @@ def solution(numbers, hand):
 
 	return answer
 ```
+
+그런데 정말 의문점이 있다. 24, 25 번 째 코드를 보면 leftDistance, rightDistance 를 활용해 전부 계산을 했다.
+
+하지만 <a href="https://github.com/Nam-Ki-Bok/Programmers" style="color:#0FA678" target="_blank">Github</a> 에 가서 Keypad.py 파일을 보자.. 밑에 주석처리된 코드를 보면 checkLeft, checkRight 를 통해 계산을 한 후
+
+비교를 해 대입을 했다.. 달라진 건 변수 명 밖에 없고 로직은 똑같다고 생각이 드는데 주석 처리 된 코드는 정답률 65% 이다..
+
+얼른 이유를 찾아서 밑에다 써야겠다.
 
