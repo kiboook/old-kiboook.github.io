@@ -11,7 +11,7 @@ tags:
 
 ## 키패드 누르기
 
-<a href="https://programmers.co.kr/learn/courses/30/lessons/67256" style="color:#0FA678" target="_blank">키패드 누르기</a> 을 클릭하면 바로 이동한다.
+<a href="https://programmers.co.kr/learn/courses/30/lessons/67256" style="color:#0FA678" target="_blank">키패드 누르기</a> 를 클릭하면 바로 이동한다.
 
 앞서 풀었던 문제 중 처리하기 어려운 부분이 있으면 쉽게 치환 후 푸는 방식이 있었다.
 
