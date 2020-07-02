@@ -56,3 +56,11 @@ author_profile: true
 ### Hash
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Maraton/" style="color:#0FA678">[Programmers] 완주하지 못한 선수</a>
+
+<br>
+
+### 완전탐색
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MockTest/" style="color:#0FA678">[Programmers] 모의고사</a>
+
+<br>
