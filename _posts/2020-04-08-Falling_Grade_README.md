@@ -1,5 +1,5 @@
 ---
-title:  "[Falling Grade] README"
+title:  "[Falling Grade]"
 excerpt: ""
 
 categories:
