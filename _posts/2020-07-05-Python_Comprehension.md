@@ -49,7 +49,7 @@ comprehension 을 통해 아주 간단히 만들 수 있다.
 animal = ['dog', 'cat', 'cow']
 num = [3,5,10]
 
-animal_dict = {animal : num for val in zip(animal, num)}
+animal_dict = {val[0] : val[1] for val in zip(animal, num)}
 ```
 
 동물을 key 로 num 을 value 로 가지는 dict 를 만들고 싶을 때 zip 함수를 이용하여 매우매우 간단하게 초기화 할 수 있다.
