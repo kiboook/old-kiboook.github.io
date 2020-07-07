@@ -77,6 +77,12 @@ author_profile: true
 
 <br>
 
+### 스택/큐
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Printer/" style="color:#0FA678">[Programmers] 프린터</a>
+
+<br>
+
 ### 연습문제
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Division/" style="color:#0FA678">[Programmers] 나누어 떨어지는 숫자 배열</a>
