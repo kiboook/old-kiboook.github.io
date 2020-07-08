@@ -11,5 +11,5 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/fallinggrade/Falling_Grade_README/" style="font-size: 25px; color: black;">Falling Grade</a>
 
-<a href="https://nam-ki-bok.github.io/categories/ScoreCheck/" style="color: black; font-size: 25px">Score Check</a>
+<a href="https://nam-ki-bok.github.io/categories/GPA_Check/" style="color: black; font-size: 25px">GPA Check</a>
 
