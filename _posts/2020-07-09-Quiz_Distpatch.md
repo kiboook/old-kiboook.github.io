@@ -73,3 +73,9 @@ list comprehension 을 통해 배포까지 걸리는 일 수 를 저장하고
 queue 를 사용하려면 collection 에 있는 queue 를 import 한 후 사용해야하는데..
 
 무슨 차이가 있는지 알아봐야겠다.
+
+---
+
+<a href="https://nam-ki-bok.github.io/python/Python_list_queue/" style="color:#0FA678">[Python] List VS Queue</a>
+
+엄청난 차이 발견 !
