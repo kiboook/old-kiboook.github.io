@@ -73,3 +73,14 @@ for i in range(size):
 print('큐에 popleft 를 한 시간 : {}'.format(time.time() - start_time))
 ```
 
+결과는 어떻게 됐을까 ? 백만개의 데이터를 가지고 측정을 해봤다.
+
+<img src="https://nam-ki-bok.github.io/assets/images/language/p_1.png" style="zoom:70%;" />
+
+append 는 괜찮지만 pop에서 어마 무시한 속도 차이가 발생한다..
+
+리스트를 뒤집어 pop() 하는 경우도 큐를 사용한 경우와 그렇게 심한 차이는 나지 않는다.
+
+그렇다고 큐를 사용 할 때마다 리스트로 뒤집어서 사용 할 것은 아니기 때문에 의미는 없다!
+
+시기 적절하게 큐와 리스트를 사용 하도록 하자..
