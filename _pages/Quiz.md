@@ -93,6 +93,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Bridge/" style="color:#0FA678">[Programmers] 다리를 지나는 트럭</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Stock/" style="color:#0FA678">[Programmers] 주식 가격</a>
+
 <br>
 
 ### 연습문제
