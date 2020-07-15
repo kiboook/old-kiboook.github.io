@@ -47,6 +47,12 @@ author_profile: true
 
 <br>
 
+### 2020 KAKAO BLIND RECRUITMENT
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_StringEgg/" style="color:#0FA678">[Programmers] 문자열 압축</a>
+
+<br>
+
 ### 2019 카카오 개발자 겨울 인턴십
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Doll/" style="color:#0FA678">[Programmers] 크레인 인형뽑기 게임</a>
