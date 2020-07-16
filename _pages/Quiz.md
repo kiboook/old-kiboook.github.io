@@ -101,6 +101,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Stock/" style="color:#0FA678">[Programmers] 주식 가격</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Stick/" style="color:#0FA678">[Programmers] 쇠막대기</a>
+
 <br>
 
 ### 연습문제
