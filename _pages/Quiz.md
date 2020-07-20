@@ -83,7 +83,7 @@ author_profile: true
 
 <br>
 
-### 탐욕법
+### 탐욕법 (Greedy)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_GymCloth/" style="color:#0FA678">[Programmers] 체육복</a>
 
@@ -106,6 +106,12 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Stock/" style="color:#0FA678">[Programmers] 주식 가격</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Stick/" style="color:#0FA678">[Programmers] 쇠막대기</a>
+
+<br>
+
+### 힙 (Heap)
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MoreHot/" style="color:#0FA678">[Programmers] 더 맵게</a>
 
 <br>
 
