@@ -51,6 +51,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_StringEgg/" style="color:#0FA678">[Programmers] 문자열 압축</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_ChangePart/" style="color:#0FA678">[Programmers] 괄호 변환</a>
+
 <br>
 
 ### 2019 카카오 개발자 겨울 인턴십
