@@ -2,15 +2,21 @@
 title:  "[Falling Grade]"
 excerpt: ""
 
+toc: true
+toc_label: "목차"
+
 categories:
   - FallingGrade
 
 tags:
   - Java
   - Eclipse
+
 ---
 
 # Falling Grade
+
+<a href="https://github.com/Nam-Ki-Bok/Falling_Grade" style="color:#0FA678">GitHub</a>
 
 본 프로젝트는 2019년 2학년 2학기 Java Programming 팀 프로젝트 이다.
 
@@ -40,17 +46,17 @@ tags:
 
 ## 화면 구성
 
-시작삽입
-
-캐릭터선택 삽입
-
-난이도삽입
-
-## 게임 화면 구성
-
 - 게임 구성에 필요한 모든 이미지, 버튼 생성
 - 각각의 화면을 표시할 변수 설정
 - If문, 변수, setVisible 메소드를 통해 상황에 맞는 버튼, 이미지 출력
+
+<img src="https://nam-ki-bok.github.io/assets/images/toy_project/Falling_1.png" style="zoom:35%;" />
+
+
+
+<img src="https://nam-ki-bok.github.io/assets/images/toy_project/Falling_2.png" style="zoom:35%;" />
+
+<img src="https://nam-ki-bok.github.io/assets/images/toy_project/Falling_3.png" style="zoom:35%;" />
 
 ## 게임 구동
 
@@ -64,15 +70,170 @@ tags:
 ## 게임 결과 산출
 
 - Static 변수를 통한 게임 결과 계산
-
 - 캐릭터와 학점이 접촉 시 학점의 생성 값으로 점수 부여
-
 - double 값으로 계산 후 String.format 메소드를 통해 소수점 2자리 까지 출력
 
-  
+## 중요 메소드
+
+### 난이도에 따라 학점 생성 빈도수를 조절
+
+- Easy : 0.8초 마다 학점 생성
+
+- Normal : 0.5초 마다 학점 생성
+
+- Hard : 0.3초 마다 학점 생성
+
+
+
+### 구현원리
+
+- Thread의 Sleep 기능 이용
+
+- Sleep 시간을 넣어주어 난이도에 맞는 빈도 구현
+
+- 학점 객체 생성 &rarr; 움직임 Thread 실행 &rarr; 배열리스트 삽입
+
+```java
+// 난이도 별 학점 생성 빈도수 조절 메소드
+
+public void run() {
+		while (true) {
+			if (Main.GAME_START) {
+				if (this.difficulty.equals("EASY")) {
+					try {
+						Thread.sleep(800); // 0.8초마다
+						Grade grade = new Grade(generator.nextInt(22));
+						grade.start();
+						gradeList.add(grade);
+					} catch (InterruptedException e) {
+						System.err.println(e.getMessage());
+					}
+				} else if (this.difficulty.equals("NORMAL")) {
+					try {
+						Thread.sleep(500); // 0.5초마다
+						Grade grade = new Grade(generator.nextInt(22));
+						grade.start();
+						gradeList.add(grade);
+					} catch (InterruptedException e) {
+						System.err.println(e.getMessage());
+					}
+				} else {
+					try {
+						Thread.sleep(300); // 0.3초마다
+						Grade grade = new Grade(generator.nextInt(22));
+						grade.start();
+						gradeList.add(grade);
+					} catch (InterruptedException e) {
+						System.err.println(e.getMessage());
+					}
+				}
+			} else {
+				interrupt();
+				break;
+			}
+		}
+	}
+```
+
+---
+
+### 학점 객체 생성 시 랜덤 생성 값 부여
+
+- 생성 값 0 ~ 4 : A+, A &rarr; 확률 23%
+- 생성 값 5 ~ 9 : B+, B &rarr; 확률 23%
+- 생성 값 10: ~ 12 : C+, C &rarr; 확률 13.5%
+- 생성 값 13 ~ 15 : D+, D &rarr; 확률 13.5%
+- 생성 값 16 ~ 19 : F &rarr; 확률 18%
+- 생성 값 20 ~ 21 : Item &rarr; 확률 9%
+
+### 구현원리
+
+- Random 메소드를 이용, 생성 값 랜덤 생성
+- 생성 값에 맞는 학점 이미지 삽입
+- 각 학점에 랜덤 하강 값, 랜덤 생성위치 부여
+
+```java
+// 학점 이미지 생성 및 랜덤 값 부여 메소드
+
+public Grade(int gradeType) {
+		//학점 이미지 생성
+		if (gradeType >= 0 && gradeType <= 4) {
+			if (gradeType % 2 != 0) {
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeAPlus.png").getImage();
+			} else
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeA.png").getImage();
+
+		} else if (gradeType >= 5 && gradeType <= 9) {
+			if (gradeType % 2 != 0) {
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeBPlus.png").getImage();
+			} else
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeB.png").getImage();
+		} else if (gradeType >= 10 && gradeType <= 12) {
+			if (gradeType % 2 != 0) {
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeCPlus.png").getImage();
+			} else
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeC.png").getImage();
+		} else if (gradeType >= 13 && gradeType <= 15) {
+			if (gradeType % 2 != 0) {
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeDPlus.png").getImage();
+			} else
+				gradeImage = new ImageIcon(".\\bin\\Data\\gradeD.png").getImage();
+		} else if (gradeType >= 16 && gradeType <= 19) {
+			gradeImage = new ImageIcon(".\\bin\\Data\\gradeF.png").getImage();
+		} else if (gradeType == 20) {
+			gradeImage = new ImageIcon(".\\bin\\Data\\timePlus.png").getImage();
+		} else {
+			gradeImage = new ImageIcon(".\\bin\\Data\\FMinus.png").getImage();
+		}
+		this.speed = 2 + generator.nextInt(5);
+		this.x = generator.nextInt(1200);
+		this.gradeType = gradeType;
+	}
+```
+
+---
+
+### 게임 종료, 땅에 떨어졌을 경우 학점 하강 멈춤
+
+- ##### 게임 종료
+
+  학점이 계속 떨어지는 경우 결과 산출에 오류 발생
+
+- ##### 땅에 떨어졌을 경우
+
+  움직임 종료 후 배열리스트에서 삭제
+
+### 구현원리
+
+- 학점 하강 여부 변수를 통해 관리
+- 학점이 하강 중이 아닐 때 Thread 정지 후 배열리스트에서 삭제
+
+```java
+// 게임 종료, 땅에 떨어졌을 경우 학점 하강 멈춤 메소드
+
+public void run() {
+		try {
+			while (true) {
+				drop();
+				if (proceeded) {
+					if (!Main.GAME_START) { // 떨어지는 학점이 있는 도중에 게임이 종료 된다면 떨어지고 있는 학점도 멈춰야 한다
+						interrupt();
+						break;
+					}
+					Thread.sleep(Main.SLEEP_TIME);
+				} else {
+					interrupt();
+					break;
+				}
+			}
+		} catch (Exception e) {
+			System.err.println(e.getMessage());
+		}
+	}
+```
+
+## 플레이 영상
 
 <video width="640" height="360" controls>
    <source src="https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/FallingGradeInGame.mp4" type="video/mp4">
 </video>
-
-<img src="https://nam-ki-bok.github.io/assets/images/toy_project/GPA_16.png" style="zoom:35%;" />
