@@ -99,6 +99,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_JoyStick/" style="color:#0FA678">[Programmers] 조이스틱</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_ResqueBoat/" style="color:#0FA678">[Programmers] 구명보트</a>
+
 <br>
 
 ### 스택/큐
