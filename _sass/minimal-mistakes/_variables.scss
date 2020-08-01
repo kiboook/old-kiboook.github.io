@@ -15,7 +15,7 @@ $indent-var: 0.65em !default; // 행간 조절
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default; // 폰트변경 위치
-$sans-serif: -apple-system, BlinkMacSystemFont, "Nanum Gothic", "Malgun Gothic", "맑은 고딕", "Roboto", "Segoe UI",
+$sans-serif: "Nanum Gothic", -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -62,7 +62,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #ffffff !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
