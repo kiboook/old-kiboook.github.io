@@ -1,5 +1,5 @@
 ---
-title:  "[Programmers] 튜플"
+title:  "[Programmers] 다음 큰 숫자"
 excerpt: ""
 
 categories:
