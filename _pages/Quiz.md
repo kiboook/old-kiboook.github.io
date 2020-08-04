@@ -151,4 +151,6 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_NextNum/" style="color:#0FA678">[Programmers] 다음 큰 숫자</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Land/" style="color:#0FA678">[Programmers] 땅따먹기</a>
+
 <br>
