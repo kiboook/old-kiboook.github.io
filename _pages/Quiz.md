@@ -161,4 +161,6 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_ExpressNum/" style="color:#0FA678">[Programmers] 숫자의 표현</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MaxMin/" style="color:#0FA678">[Programmers] 최댓값과 최솟값</a>
+
 <br>
