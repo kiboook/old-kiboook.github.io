@@ -32,6 +32,8 @@ tags:
 
 내일은 다른 문제를 풀기보다 이 문제를 푼 다른 사람들 코드를 보며 공부 좀 해야겠다.
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax2/" style="color:#0FA678">[Programmers] 수식 최대화 코드 분석</a>
+
 ```python
 from itertools import permutations as per
 from copy import deepcopy
