@@ -171,5 +171,7 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_JadenCase/" style="color:#0FA678">[Programmers] JadenCase 문자열 만들기</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NLCM/" style="color:#0FA678">[Programmers] N개의 최소공배수</a>
+
 <br>
 
