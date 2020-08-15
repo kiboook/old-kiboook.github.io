@@ -73,8 +73,11 @@ print(add('Hello', ' World'))
 
 해당 코드를 mypy 로 실행시켜보면 다음과 같이 오류가 발생한다.
 
-<img src="https://nam-ki-bok.github.io/assets/images/language/p_3.png" style="zoom:30%;" />
+<img src="https://nam-ki-bok.github.io/assets/images/language/p_3.png" style="zoom:50%;" />
+
+annotation 은 int 로 했는데 문자열을 대입했기 때문이다.
 
 변수의 자료형이나 함수 반환값의 자료형을 표시하고 싶다면 annotation 을 사용하고
 
 Mypy 를 이용 해 오류를 찾아내도록 하자.
+
