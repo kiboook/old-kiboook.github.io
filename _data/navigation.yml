@@ -9,7 +9,7 @@ main:
   - title: "Backend"
     url: /categories/Backend/
   - title: "Programmers"
-    url: /categories/Quiz/
+    url: /categories/Programmers/
   - title: "LeetCode"
     url: /categories/LeetCode/
 #  - title: "Algorithm"
