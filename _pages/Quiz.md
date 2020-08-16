@@ -53,6 +53,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Failure/" style="color:#0FA678">[Programmers] 실패율</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_OpenKatok/" style="color:#0FA678">[Programmers] 오픈채팅방</a>
+
 <br>
 
 ### 2019 카카오 개발자 겨울 인턴십
