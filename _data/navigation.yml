@@ -10,6 +10,8 @@ main:
     url: /categories/Backend/
   - title: "Programmers"
     url: /categories/Quiz/
+  - title: "LeetCode"
+    url: /categories/LeetCode/
 #  - title: "Algorithm"
 #    url: /categories/Algorithm/
   - title: "Language"
