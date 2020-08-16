@@ -1,11 +1,11 @@
 ---
 title: ""
-permalink: /categories/Leetcode/
+permalink: /categories/LeetCode/
 layout: category
 author_profile: true
 ---
 
-### <a href="https://leetcode.com/" style="color:#0FA678" target="_blank">Leetcode</a>
+### <a href="https://leetcode.com/" style="color:#0FA678" target="_blank">LeetCode</a>
 
 ### Easy
 
