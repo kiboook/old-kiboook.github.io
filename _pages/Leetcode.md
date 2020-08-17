@@ -13,6 +13,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/LeetShuffle/" style="color:#0FA678">[LeetCode] Shuffle The Array</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_Candies/" style="color:#0FA678">[LeetCode] Kids With the Greatest Number of Candies</a>
+
 <br>
 
 ### Medium
