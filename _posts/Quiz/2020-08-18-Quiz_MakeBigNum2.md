@@ -12,7 +12,7 @@ tags:
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/42746" style="color:#0FA678" target="_blank">가장 큰 수</a> 를 클릭하면 바로 이동한다.
 
-예전에 도전했던 문제였지만 너무 어려워 풀지 못했던 문제였다.
+예전에 permutation 을 사용해서 도전했던 문제였지만 시간초과가 발생 하고 너무 어려워 풀지 못했던 문제였다.
 
 지금도 풀다가 도움을 받아 풀었는데 어떻게 이런 생각을 하는지 대단 할 뿐.. 문제에 쓸모없는 조건은 없다고 생각한다.
 
