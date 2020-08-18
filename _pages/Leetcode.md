@@ -15,6 +15,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_Candies/" style="color:#0FA678">[LeetCode] Kids With the Greatest Number of Candies</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_GoodPairs/" style="color:#0FA678">[LeetCode] Number Of Good Pairs</a>
+
 <br>
 
 ### Medium
