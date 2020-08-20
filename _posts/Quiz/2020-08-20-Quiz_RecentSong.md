@@ -28,7 +28,9 @@ tags:
 
 시작시간과 종료시간은 다시 **split(':')** 을 이용해 나눈뒤 정수로 바꾼다.
 
-이때 시작 분 보다 종료 분이 더 큰 경우는 그대로 계산하면 되지만 종료 분이 더 작은 경우에는 다른 방법으로 계산을 한다.
+~~이때 시작 분 보다 종료 분이 더 큰 경우는 그대로 계산하면 되지만 종료 분이 더 작은 경우에는 다른 방법으로 계산을 한다.~~
+
+어차피 재생 시간만 구하면 되는 것 이기 때문에 종료 시간을 분으로 바꾸고 시작 시간을 분으로 바꿔 빼주기만 하면 된다.
 
 이제 노래의 재생 시간을 구했다면 그에 맞게 멜로디를 만들어 주면 된다.
 
@@ -49,13 +51,13 @@ def get_time(start, end):
 	end_time = end.split(':')
 	end_h = int(end_time[0])
 	end_m = int(end_time[1])
+  
+	# 	if start_m <= end_m:  # 시작 분 보다 종료 분이 더 크거나 같 경우, 작은 경우
+	# 		runtime = (end_h - start_h) * 60 + (end_m - start_m)
+	# 	else:
+	# 		runtime = (end_h - start_h - 1) * 60 + (60 - start_m) + end_m
 
-	if start_m <= end_m:  # 시작 분 보다 종료 분이 더 크거나 같 경우, 작은 경우
-		runtime = (end_h - start_h) * 60 + (end_m - start_m)
-	else:
-		runtime = (end_h - start_h - 1) * 60 + (60 - start_m) + end_m
-
-	return runtime
+	return (end_h * 60 + end_m) - (start_h * 60 + start_m)
 
 
 def solution(m, musicinfos):
@@ -85,7 +87,7 @@ def solution(m, musicinfos):
 		if m in val[1]:
 			answer.append([val[0], len(val[1])])
 
-	if len(answer) == 0:  #  찾고자 하는 음악이 없는 경우, 한 개인 경우, 여러 개 인 경우 조건
+	if len(answer) == 0:  #  찾고자 하는 음악이 없는 경우, 한 개인 경우, 여러 개인 경우 조건
 		return '(None)'
 
 	elif len(answer) == 1:
