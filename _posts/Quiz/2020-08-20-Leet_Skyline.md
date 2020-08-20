@@ -12,9 +12,9 @@ tags:
 
 <center><img src="https://nam-ki-bok.github.io/assets/images/leetcode/skyline1.png" style="zoom:50%;" /></center>
 
-n * n 크기의 땅에 각자 높이가 다른 빌딩이 있다. 기존의 스카이라인을 바꾸지 않으려면 각자 빌딩들은 최대 몇 층 까지 올릴 수 있을 까 ?
+n * n 크기의 땅에 각자 높이가 다른 빌딩이 있다. 기존의 스카이라인이 바뀌지 않게 빌딩들의 층 수를 올리려고 한다.
 
-이때 모든 빌딩의 추가 층 수 를 더해서 반환 하면 된다.
+각 빌딩들은 최대 몇 층 까지 올릴 수 있을까 ? 이때 모든 빌딩의 추가 층 수 를 더해서 반환 하면 된다.
 
 예시에서 보자면 왼쪽에서 봤을때 스카이라인은 <font style="color:red">[8, 7, 9, 3]</font> 이고 밑에서 봤을 때 스카이라인은 <font style="color:blue">[9, 4, 8, 7]</font> 이다.
 
