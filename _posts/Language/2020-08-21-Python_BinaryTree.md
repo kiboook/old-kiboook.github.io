@@ -198,3 +198,8 @@ class Binary_Search_Tree:
 
 **[9, 7, 15, 3, 8, 10, 17, 2, 4, 13, 25]** 순서로 순회 한다. 그래프와 달리 연결이 되어있지 않기 때문에 방문 여부를 체크하지 않아도 된다.
 
+## 📕 참조, 출처
+
+- <a href="http://ejklike.github.io/2018/01/09/traversing-a-binary-tree-1.html" style="color:#0FA678" target="_blank">파이썬을 사용한 이진 트리와 순회 알고리즘 구현 (1)</a>
+- <a href="http://ejklike.github.io/2018/01/09/traversing-a-binary-tree-2.html" style="color:#0FA678" target="_blank">파이썬을 사용한 이진 트리와 순회 알고리즘 구현 (2)</a>
+
