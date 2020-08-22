@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Sum of Nodes with Even-Valued Grandparent"
+title:  "[LeetCode] Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
 excerpt: ""
 
 categories:
@@ -8,38 +8,41 @@ categories:
 tags:
 ---
 
-## Sum of Nodes with Even-Valued Grandparent
+## Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
-<center><img src="https://nam-ki-bok.github.io/assets/images/leetcode/grand1.png" style="zoom:50%;" /></center>
+<center><img src="https://nam-ki-bok.github.io/assets/images/leetcode/findnode1.png" style="zoom:50%;" /></center>
 
-LeetCode 문제를 풀다가 느꼈는데 Input 이 친절하지 않다. 이 문제도 **Input:** root = [6, 7, 8, 2, 7, 1, 3, 9, null, 1, 4, null, null, null, 5]
+문제를 읽고 **또잉 ?** 했다. 뭔가 origianl tree, cloned tree 하면서 엄청 거창해보였다.. 그런데 그냥 노드 찾기 문제였다.
 
-으로만 되어있고 정답 코드는 이미 Binary Tree 가 구현 된 상태를 전제로 작성해야 한다.
+왜 원본, 복제 트리를 구분지은 것 일까.. 문제 풀이에 아무런 상관이 없다.. 그냥 target 노드 찾아가면 그만..
 
-객체로 구현하지 않고 단순히 root 배열의 index 를 통해서 풀 수 도 있는데 말이다.
-
-이런 식의 트리 구현을 연습하라는 뜻인가.. 사실 객체로 트리 만드는 건 한 번도 안해보긴 했다.. 이 기회에 한 번 만들어서 순회도 해봐야겠다.
+그래서 BFS 를 통해 찾아가는 방식으로 코딩 했다.
 
 ---
 
-주어진 트리를 순회하면서 조부모 노드가 짝수 인 경우 현재 노드의 값을 더하면 된다.
-
-트리는 이미 구현이 되어서 주어지기 때문에 DFS 코드만 짜면 된다.
-
 ```python
+from collections import deque
+
+
+class TreeNode:
+	def __init__(self, x):
+		self.val = x
+		self.left = None
+		self.right = None
+
 class Solution:
-	def sumEvenGrandparent(self, root: TreeNode) -> int:
-		def DFS(node, parent, grand, answer):
-			if not node:
-				return 0
+	def getTargetCopy(self, original: TreeNode, cloned: TreeNode, target: TreeNode) -> TreeNode:
+		queue = deque()
+		queue.append(cloned)
+		while queue:
+			node = queue.popleft()
+			if node.val == target.val:
+				return node
 
-			if grand and grand.val % 2 == 0:
-				answer.append(node.val)
-			DFS(node.left, node, parent, answer)
-			DFS(node.right, node, parent, answer)
-
-		answer = []
-		DFS(root, None, None, answer)
-		return sum(answer)
+			if node.left:
+				queue.append(node.left)
+			if node.right:
+				queue.append(node.right)
 ```
 
+그런데 풀고보니 문제에 좋아요 보다 싫어요가 더 많았던 문제였다. 다른 사람들도 보고 웃겼나보다!
