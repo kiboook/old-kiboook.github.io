@@ -25,6 +25,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_Skyline/" style="color:#0FA678">[LeetCode] Max Increase to Keep City Skyline</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_EvenGrande/" style="color:#0FA678">[LeetCode] Sum of Nodes with Even-Valued Grandparent</a>
+
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_FindeNode/" style="color:#0FA678">[LeetCode] Find a Corresponding Node of a Binary Tree in a Clone of That Tree</a>
+
 <br>
 
 ### Hard
