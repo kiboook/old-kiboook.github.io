@@ -20,6 +20,8 @@ LeetCode 문제를 풀다가 느꼈는데 Input 이 친절하지 않다. 이 문
 
 이런 식의 트리 구현을 연습하라는 뜻인가.. 사실 객체로 트리 만드는 건 한 번도 안해보긴 했다.. 이 기회에 한 번 만들어서 순회도 해봐야겠다.
 
+<a href="https://nam-ki-bok.github.io/python/Python_BinaryTree/" style="color:#0FA678">[Python] Binary Search Tree</a>
+
 ---
 
 주어진 트리를 순회하면서 조부모 노드가 짝수 인 경우 현재 노드의 값을 더하면 된다.
