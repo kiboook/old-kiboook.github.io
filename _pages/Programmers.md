@@ -49,6 +49,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Egg/" style="color:#0FA678">[Programmers] 압축</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_FileSort/" style="color:#0FA678">[Programmers] 파일명 정렬</a>
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NGame/" style="color:#0FA678">[Programmers] n진수 게임</a>
+
 <br>
 
 ### Summer/Winter Coding(~2019)
