@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Kids With the Greatest Number of Candies"
+title:  "[LeetCode] 1431. Kids With the Greatest Number of Candies"
 excerpt: ""
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Max Increase to Keep City Skyline "
+title:  "[LeetCode] 807. Max Increase to Keep City Skyline "
 excerpt: ""
 
 categories:

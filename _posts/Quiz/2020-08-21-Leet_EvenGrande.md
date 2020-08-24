@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Sum of Nodes with Even-Valued Grandparent"
+title:  "[LeetCode] 1315. Sum of Nodes with Even-Valued Grandparent"
 excerpt: ""
 
 categories:

@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Number Of Good Pairs"
+title:  "[LeetCode] 1512. Number Of Good Pairs"
 excerpt: ""
 
 categories:

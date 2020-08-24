@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Maximum Number of Coins You Can Get"
+title:  "[LeetCode] 1561. Maximum Number of Coins You Can Get"
 excerpt: ""
 
 categories:

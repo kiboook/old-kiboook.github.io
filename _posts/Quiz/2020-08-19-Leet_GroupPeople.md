@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Group the People Given the Group Size They Belong To"
+title:  "[LeetCode] 1282. Group the People Given the Group Size They Belong To"
 excerpt: ""
 
 categories:
