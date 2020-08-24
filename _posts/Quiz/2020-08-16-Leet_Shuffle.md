@@ -1,5 +1,5 @@
 ---
-title:  "[LeetCode] Shuffle The Array"
+title:  "[LeetCode] 1470. Shuffle The Array"
 excerpt: ""
 
 categories:
