@@ -9,6 +9,14 @@ author_profile: true
 
 [2020.06.14] 시작!
 
+<img src="https://nam-ki-bok.github.io/assets/images/programmers/myskill.png" style="zoom:25%;" />
+
+[2020.08.24]
+
+LEVEL 1, 2 문제를 모두 풀고 스킬 체크 시험을 통해 LEVEL 2 까지 인증했다.
+
+LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려워져서 백준으로 여러가지 자료구조 활용을 연습하고 다시 도전해야겠다..
+
 ### 2017 팁스타운
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_RemoveBuddy/" style="color:#0FA678">[Programmers] 짝지어 제거하기</a>
