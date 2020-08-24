@@ -31,6 +31,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_MaxCoin/" style="color:#0FA678">[LeetCode] Maximum Number of Coins You Can Get</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_Soldier/" style="color:#0FA678">[LeetCode] 1395. Count Number of Teams</a>
+
 <br>
 
 ### Hard
