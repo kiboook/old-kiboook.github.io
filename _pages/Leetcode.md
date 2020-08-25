@@ -33,6 +33,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_Soldier/" style="color:#0FA678">[LeetCode] 1395. Count Number of Teams</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_SumOfTree/" style="color:#0FA678">[LeetCode] 1038. Binary Search Tree to Greater Sum Tree</a>
+
 <br>
 
 ### Hard
