@@ -35,6 +35,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_SumOfTree/" style="color:#0FA678">[LeetCode] 1038. Binary Search Tree to Greater Sum Tree</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_MaximumTree/" style="color:#0FA678">[LeetCode] 654. Maximum Binary Tree</a>
+
 <br>
 
 ### Hard
