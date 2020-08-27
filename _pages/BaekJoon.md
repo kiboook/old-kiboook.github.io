@@ -33,3 +33,5 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ArrStack/" style="color:#0FA678">[BaekJoon] 백준 1874번 : 스택 수열</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_CutTree/" style="color:#0FA678">[BaekJoon] 백준 2805번 : 나무 자르기</a>
+
