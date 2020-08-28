@@ -35,3 +35,4 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_CutTree/" style="color:#0FA678">[BaekJoon] 백준 2805번 : 나무 자르기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_CutLan/" style="color:#0FA678">[BaekJoon] 백준 1654번 : 랜선 자르기</a>
