@@ -12,9 +12,15 @@ tags:
 
 <center><img src="https://nam-ki-bok.github.io/assets/images/baekjoon/balance.png" style="zoom:50%;" /></center>
 
+<br>
+
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_CorrectPart/" style="color:#0FA678">[Programmers] 올바른 괄호</a> 와 비슷한 문제인데 괄호의 종류가 두 개로 늘었다.
 
 똑같이 스택에 넣어주며 닫히는 괄호가 나오면 스택의 top 부분과 비교하며 연산하면 된다.
+
+소괄호가 왔을때 top 부분에도 소괄호가 있어야 하고 대괄호가 왔을때 top 부분에도 대괄호가 있어야 한다.
+
+또 모든 연산을 마쳤을 때 스택이 비어있어야 한다.
 
 ---
 
