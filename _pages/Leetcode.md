@@ -39,6 +39,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_MakeBST/" style="color:#0FA678">[LeetCode] 1008. Construct Binary Search Tree from Preorder Traversal</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_MakeSameARr/" style="color:#0FA678">[LeetCode] 1551. Minimum Operations to Make Array Equal</a>
+
 <br>
 
 ### Hard
