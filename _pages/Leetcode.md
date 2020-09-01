@@ -41,6 +41,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_MakeSameARr/" style="color:#0FA678">[LeetCode] 1551. Minimum Operations to Make Array Equal</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_MakeBST2/" style="color:#0FA678">[LeetCode] 701. Insert into a Binary Search Tree</a>
+
 <br>
 
 ### Hard
