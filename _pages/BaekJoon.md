@@ -31,6 +31,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Balance/" style="color:#0FA678">[BaekJoon] 백준 4949번 : 균형잡힌 세상</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Parenthesis/" style="color:#0FA678">[BaekJoon] 백준 9012번 : 괄호</a>
+
 ### Silver 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ArrStack/" style="color:#0FA678">[BaekJoon] 백준 1874번 : 스택 수열</a>
