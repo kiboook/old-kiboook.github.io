@@ -1,5 +1,5 @@
 ---
-title:  "[BaekJoon] 18111번 : 마인크래프트"
+title:  "[BaekJoon] 백준 18111번 : 마인크래프트"
 excerpt: ""
 
 categories:

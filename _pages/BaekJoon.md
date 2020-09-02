@@ -43,4 +43,4 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_CutLan/" style="color:#0FA678">[BaekJoon] 백준 1654번 : 랜선 자르기</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Minecraft/" style="color:#0FA678">[BaekJoon] 18111번 : 마인크래프트</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Minecraft/" style="color:#0FA678">[BaekJoon] 백준 18111번 : 마인크래프트</a>
