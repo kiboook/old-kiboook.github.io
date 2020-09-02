@@ -43,6 +43,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_MakeBST2/" style="color:#0FA678">[LeetCode] 701. Insert into a Binary Search Tree</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_Partition/" style="color:#0FA678">[LeetCode] 763. Partition Labels</a>
+
 <br>
 
 ### Hard
