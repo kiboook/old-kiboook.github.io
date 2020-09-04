@@ -35,6 +35,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NumCard2/" style="color:#0FA678">[BaekJoon] 백준 10816번 : 숫자 카드2</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Poketmon/" style="color:#0FA678">[BaekJoon] 1620번 : 나는야 포켓몬 마스터 이다솜</a>
+
 ### Silver 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ArrStack/" style="color:#0FA678">[BaekJoon] 백준 1874번 : 스택 수열</a>
