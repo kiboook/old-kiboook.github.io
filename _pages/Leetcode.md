@@ -45,6 +45,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_Partition/" style="color:#0FA678">[LeetCode] 763. Partition Labels</a>
 
+<a href="https://nam-ki-bok.github.io/leetcode/Leet_CustomStack/" style="color:#0FA678">[LeetCode] 1381. Design a Stack With Increment Operation</a>
+
 <br>
 
 ### Hard
