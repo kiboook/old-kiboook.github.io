@@ -49,6 +49,10 @@ author_profile: true
 
 ### Silver 2
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">1260번 : DFS와 BFS</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 1260번 : DFS와 BFS</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cabbage/" style="color:#0FA678">1012번 : 유기농 배추</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cabbage/" style="color:#0FA678">[BaekJoon] 1012번 : 유기농 배추</a>
+
+### Silver 1
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 1389번 : 케빈 베이컨의 6단계 법칙</a>
