@@ -1,5 +1,5 @@
 ---
-title:  "[BaekJoon] 1260번 : DFS와 BFS"
+title:  "[BaekJoon] 백준 1260번 : DFS와 BFS"
 excerpt: ""
 
 categories:

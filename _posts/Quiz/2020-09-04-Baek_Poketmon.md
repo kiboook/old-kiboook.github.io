@@ -1,5 +1,5 @@
 ---
-title:  "[BaekJoon] 1620번 : 나는야 포켓몬 마스터 이다솜"
+title:  "[BaekJoon] 백준 1620번 : 나는야 포켓몬 마스터 이다솜"
 excerpt: ""
 
 categories:

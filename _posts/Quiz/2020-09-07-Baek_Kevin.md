@@ -1,5 +1,5 @@
 ---
-title:  "[BaekJoon] 1389번 : 케빈 베이컨의 6단계 법칙"
+title: "[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙"
 excerpt: ""
 
 categories:

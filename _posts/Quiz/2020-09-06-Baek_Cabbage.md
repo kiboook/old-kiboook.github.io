@@ -1,5 +1,5 @@
 ---
-title:  "[BaekJoon] 1012번 : 유기농 배추"
+title: "[BaekJoon] 백준 1012번 : 유기농 배추"
 excerpt: ""
 
 categories:
