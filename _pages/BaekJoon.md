@@ -47,12 +47,16 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Minecraft/" style="color:#0FA678">[BaekJoon] 백준 18111번 : 마인크래프트</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Fibonacci/" style="color:#0FA678">[BaekJoon] 백준 1003번 : 피보나치 함수</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Make1/" style="color:#0FA678">[BaekJoon] 백준 1463번 : 1로 만들기</a>
+
 ### Silver 2
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 1260번 : DFS와 BFS</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cabbage/" style="color:#0FA678">[BaekJoon] 1012번 : 유기농 배추</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cabbage/" style="color:#0FA678">[BaekJoon] 백준 1012번 : 유기농 배추</a>
 
 ### Silver 1
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 1389번 : 케빈 베이컨의 6단계 법칙</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
