@@ -19,7 +19,7 @@ tags:
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax/" style="color:#0FA678">[Programmers] 수식 최대화</a> 와 비슷한 문제였다.
 
-최솟값을 만들려면 어찌됐든 큰 수를 빼면 된다.
+최솟값을 만들려면 어찌됐든 많은 수를 빼면 된다.
 
 따라서 **+** 로 묶여있는 수는 전부 더한 뒤 남은 모든 뺄셈 계산을 하면 된다.
 
