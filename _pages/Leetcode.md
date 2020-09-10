@@ -9,6 +9,8 @@ author_profile: true
 
 [2020.08.16] 시작!
 
+[2020.09.10] 프로그래머스 코딩 챌린지를 하고 느낀 점인데.. 내일부터 백준 문제를 위주로 풀어야겠다. 릿코드는 보류다 보류 !!
+
 ### Easy
 
 <a href="https://nam-ki-bok.github.io/leetcode/Leet_Shuffle/" style="color:#0FA678">[LeetCode] 1470. Shuffle The Array</a>
