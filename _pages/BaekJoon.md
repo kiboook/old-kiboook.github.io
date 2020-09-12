@@ -51,6 +51,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Make1/" style="color:#0FA678">[BaekJoon] 백준 1463번 : 1로 만들기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Virus/" style="color:#0FA678">[BaekJoon] 백준 2606번 : 바이러스</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
