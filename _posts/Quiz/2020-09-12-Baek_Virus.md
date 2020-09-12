@@ -13,9 +13,6 @@ tags:
 <center><img width="1165" alt="Virus" src="https://user-images.githubusercontent.com/54533309/92994509-b95a5c00-f535-11ea-88a3-5e1314b13635.png">
 </center>
 
-
-
-
 <br>
 
 그래프 순회 문제이다. BFS, DFS 상관없지만 나는 BFS 가 더 좋아 BFS 로 풀었다.
