@@ -61,7 +61,11 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cabbage/" style="color:#0FA678">[BaekJoon] 백준 1012번 : 유기농 배추</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_LostPart/" style="color:#0FA678">[BaekJoon] 백준 1541번 : 잃어버린 괄호</a>
+
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Conference/" style="color:#0FA678">[BaekJoon] 백준 1931번 : 회의실배정</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_AC/" style="color:#0FA678">[BaekJoon] 백준 5430번 : AC</a>
 
 ### Silver 1
 
