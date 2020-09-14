@@ -67,6 +67,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_AC/" style="color:#0FA678">[BaekJoon] 백준 5430번 : AC</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_IOI/" style="color:#0FA678">[BaekJoon] 백준 5525번 : IOIOI</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
