@@ -15,7 +15,9 @@ author_profile: true
 
 <img src="https://nam-ki-bok.github.io/assets/images/baekjoon/class.png" style="zoom:30%;" />
 
-**class** 를 올리기 위해 필요한 필수 문제들이 있는데 그 문제들을 풀어서 **class** 를 올리는 것을 목표로 해야겠다.
+**CLASS** 를 올리기 위해 필요한 필수 문제들이 있는데 그 문제들을 풀어서 **CLASS** 를 올리는 것을 목표로 해야겠다.
+
+[2020.09.15] **Silver 2** 달성! **CLASS 3** 문제 푸는중.. 
 
 ---
 
