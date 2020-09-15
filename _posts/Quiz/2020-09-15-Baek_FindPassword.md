@@ -42,3 +42,4 @@ for _ in range(M):
 	print(info[find])
 ```
 
+{% include adsense.html %}
