@@ -12,9 +12,6 @@ tags:
 
 <center><img width="1169" alt="Find Password" src="https://user-images.githubusercontent.com/54533309/93189685-67a41280-f77d-11ea-80a2-5e726bede945.png">
 </center>
-
-
-
 <br>
 
 많은 데이터를 저장 한 뒤 특정 데이터를 찾고 싶다면 사전을 사용하는게 가장 빠르다.
@@ -41,6 +38,3 @@ for _ in range(M):
 	find = sys.stdin.readline().rsplit()[0]
 	print(info[find])
 ```
-
-{% include adsense.html %}
-
