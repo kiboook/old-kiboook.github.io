@@ -3,7 +3,6 @@ layout: archive
 ---
 
 {{ content }}
-{% include adsense.html %}
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
@@ -27,4 +26,6 @@ layout: archive
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
+  
+{% include adsense.html %}
 {% endfor %}
