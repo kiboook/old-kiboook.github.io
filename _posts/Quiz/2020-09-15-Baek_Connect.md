@@ -12,10 +12,6 @@ tags:
 
 <center><img width="1151" alt="Connect" src="https://user-images.githubusercontent.com/54533309/93217263-c7151900-f7a3-11ea-8d14-6971df54bdef.png">
 </center>
-
-
-
-
 <br>
 
 BFS, DFS 를 수행하면서 수행 한 횟수를 세면 된다..
@@ -75,6 +71,3 @@ for _ in range(M):
 
 print(count_connect(graph, visited))
 ```
-
-{% include adsense.html %}
-
