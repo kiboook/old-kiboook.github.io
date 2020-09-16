@@ -69,12 +69,11 @@ layout: default
 
             {% include post_pagination.html %}
         </div>
-
+        {% include adsense.html %}
         {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
         {% include comments.html %}
         {% endif %}
     </article>
-    {% include adsense.html %}
     {% comment %}
     <!-- only show related on a post page when `related: true` -->{% endcomment %}
     {% if page.id and page.related and site.related_posts.size > 0 %}
