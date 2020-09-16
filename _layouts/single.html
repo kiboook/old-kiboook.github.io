@@ -74,7 +74,7 @@ layout: default
         {% include comments.html %}
         {% endif %}
     </article>
-
+    {% include adsense.html %}
     {% comment %}
     <!-- only show related on a post page when `related: true` -->{% endcomment %}
     {% if page.id and page.related and site.related_posts.size > 0 %}
