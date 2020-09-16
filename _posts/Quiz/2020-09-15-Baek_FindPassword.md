@@ -38,5 +38,3 @@ for _ in range(M):
 	find = sys.stdin.readline().rsplit()[0]
 	print(info[find])
 ```
-
-{% include adsense.html %}

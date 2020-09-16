@@ -42,5 +42,3 @@ for _ in range(N):
 	else:
 		heapq.heappush(heap, data * -1)
 ```
-
-{% include adsense.html %}
