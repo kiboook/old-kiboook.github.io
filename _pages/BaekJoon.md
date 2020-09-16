@@ -73,6 +73,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_IOI/" style="color:#0FA678">[BaekJoon] 백준 5525번 : IOIOI</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Connect/" style="color:#0FA678">[BaekJoon] 백준 11724번 : 연결 요소의 개수</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_MaxHeap/" style="color:#0FA678">[BaekJoon] 백준 11279번 : 최대 힙</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
@@ -80,3 +84,5 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_HideAndSeek/" style="color:#0FA678">[BaekJoon] 백준 1697번 : 숨바꼭질</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Hometown/" style="color:#0FA678">[BaekJoon] 백준 2667번 : 단지번호붙이기</a>
+
+{% include adsense.html %}
