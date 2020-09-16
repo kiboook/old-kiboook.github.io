@@ -71,3 +71,5 @@ for _ in range(M):
 
 print(count_connect(graph, visited))
 ```
+
+{% include adsense.html %}
