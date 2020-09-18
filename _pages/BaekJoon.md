@@ -5,6 +5,8 @@ layout: category
 author_profile: true
 ---
 
+{% include adsense.html %}
+
 ### 매일 <a href="https://www.acmicpc.net/" style="color:#0FA678" target="_blank">백준</a> 에 있는 문제 풀기
 
 [2020.08.24] 시작!
@@ -59,6 +61,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Stairs/" style="color:#0FA678">[BaekJoon] 백준 2579번 : 계단 오르기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Fashion/" style="color:#0FA678">[BaekJoon] 백준 9375번 : 패션왕 신해빈</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
@@ -85,4 +89,4 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Hometown/" style="color:#0FA678">[BaekJoon] 백준 2667번 : 단지번호붙이기</a>
 
-{% include adsense.html %}
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Z/" style="color:#0FA678">[BaekJoon] 백준 1074번 : Z</a>
