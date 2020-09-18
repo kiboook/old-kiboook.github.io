@@ -5,6 +5,8 @@ layout: category
 author_profile: true
 ---
 
+{% include adsense.html %}
+
 ### 매일 <a href="https://programmers.co.kr/learn/challenges" style="color:#0FA678" target="_blank">프로그래머스</a> 에 있는 코딩 테스트 한 문제 씩 풀기
 
 [2020.06.14] 시작!
