@@ -63,6 +63,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Fashion/" style="color:#0FA678">[BaekJoon] 백준 9375번 : 패션왕 신해빈</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_ColorPaper/" style="color:#0FA678">[BaekJoon] 백준 2630번 : 색종이 만들기</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
@@ -94,3 +96,5 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Z/" style="color:#0FA678">[BaekJoon] 백준 1074번 : Z</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Quad/" style="color:#0FA678">[BaekJoon] 백준 1992번 : 쿼드트리</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Maze/" style="color:#0FA678">[BaekJoon] 백준 2178번 : 미로 탐색</a>
