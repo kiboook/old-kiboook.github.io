@@ -98,3 +98,7 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Quad/" style="color:#0FA678">[BaekJoon] 백준 1992번 : 쿼드트리</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Maze/" style="color:#0FA678">[BaekJoon] 백준 2178번 : 미로 탐색</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato/" style="color:#0FA678">[BaekJoon] 백준 7569번 : 토마토</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kaing/" style="color:#0FA678">[BaekJoon] 백준 6064번 : 카잉 달력</a>
