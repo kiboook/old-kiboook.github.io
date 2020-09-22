@@ -102,3 +102,6 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato/" style="color:#0FA678">[BaekJoon] 백준 7569번 : 토마토</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kaing/" style="color:#0FA678">[BaekJoon] 백준 6064번 : 카잉 달력</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato2/" style="color:#0FA678">[BaekJoon] 백준 7576번 : 토마토</a>
+
