@@ -105,3 +105,9 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato2/" style="color:#0FA678">[BaekJoon] 백준 7576번 : 토마토</a>
 
+### Gold 5
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_DSLR/" style="color:#0FA678">[BaekJoon] 백준 9019번 : DSLR</a>
+
