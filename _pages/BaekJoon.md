@@ -105,6 +105,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato2/" style="color:#0FA678">[BaekJoon] 백준 7576번 : 토마토</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Beer/" style="color:#0FA678">[BaekJoon] 백준 9205번 : 맥주 마시면서 걸어가기</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
