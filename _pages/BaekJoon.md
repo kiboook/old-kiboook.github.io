@@ -39,7 +39,7 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NumCard2/" style="color:#0FA678">[BaekJoon] 백준 10816번 : 숫자 카드2</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Poketmon/" style="color:#0FA678">[BaekJoon] 1620번 : 나는야 포켓몬 마스터 이다솜</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Poketmon/" style="color:#0FA678">[BaekJoon] 백준 1620번 : 나는야 포켓몬 마스터 이다솜</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindPassword/" style="color:#0FA678">[BaekJoon] 백준 17219번 : 비밀번호 찾기</a>
 
