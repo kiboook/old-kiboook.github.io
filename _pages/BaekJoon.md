@@ -25,6 +25,10 @@ author_profile: true
 
 ---
 
+### Bronze 1
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Terminal/" style="color:#0FA678">[BaekJoon] 백준 1032번 : 명령 프롬프트</a>
+
 ### Silver 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
@@ -114,6 +118,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Beer/" style="color:#0FA678">[BaekJoon] 백준 9205번 : 맥주 마시면서 걸어가기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Coin0/" style="color:#0FA678">[BaekJoon] 백준 11047번 : 동전 0</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Terminal/" style="color:#0FA678">[BaekJoon] 백준 1032번 : 명령 프롬프트</a>
 
 ### Gold 5
 
