@@ -75,6 +75,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Wave/" style="color:#0FA678">[BaekJoon] 백준 9461번 : 파도반 수열</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_ATM/" style="color:#0FA678">[BaekJoon] 백준 11399번 : ATM</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
