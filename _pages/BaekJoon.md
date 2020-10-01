@@ -121,7 +121,9 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Coin0/" style="color:#0FA678">[BaekJoon] 백준 11047번 : 동전 0</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Terminal/" style="color:#0FA678">[BaekJoon] 백준 1032번 : 명령 프롬프트</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_AbsHeap/" style="color:#0FA678">[BaekJoon] 백준 11286번 : 절댓값 힙</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindRoute/" style="color:#0FA678">[BaekJoon] 백준 11430번 : 경로 찾기</a>
 
 ### Gold 5
 
