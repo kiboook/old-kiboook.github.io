@@ -79,6 +79,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ATM/" style="color:#0FA678">[BaekJoon] 백준 11399번 : ATM</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_2xN/" style="color:#0FA678">[BaekJoon] 백준 11726번 : 2xn 타일링</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
