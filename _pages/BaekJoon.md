@@ -139,3 +139,4 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Color/" style="color:#0FA678">[BaekJoon] 백준 10026번 : 적록색약</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tetromino/" style="color:#0FA678">[BaekJoon] 백준 14500번 : 테트로미노</a>
