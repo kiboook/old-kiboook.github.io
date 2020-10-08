@@ -23,6 +23,8 @@ author_profile: true
 
 [2020.09.28] **Silver 1** 달성! **CLASS 3** 문제 푸는중..
 
+[2020.10.09] **CLASS 3** 금장 취득..
+
 ---
 
 ### Bronze 1
