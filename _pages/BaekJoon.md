@@ -137,6 +137,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindRoute/" style="color:#0FA678">[BaekJoon] 백준 11430번 : 경로 찾기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_RGB/" style="color:#0FA678">[BaekJoon] 백준 1149번 : RGB거리</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
