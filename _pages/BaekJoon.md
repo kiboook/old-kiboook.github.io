@@ -152,3 +152,7 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chicken/" style="color:#0FA678">[BaekJoon] 백준 15686번 : 치킨 배달</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_BabyShark/" style="color:#0FA678">[BaekJoon] 백준 16236번 : 아기 상어</a>
+
+### Gold 3
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
