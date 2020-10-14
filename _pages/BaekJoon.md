@@ -157,6 +157,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Dijkstra/" style="color:#0FA678">[BaekJoon] 백준 1504번 : 특정한 최단 경로</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
