@@ -109,8 +109,6 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_CoordEgg/" style="color:#0FA678">[BaekJoon] 백준 18870번 : 좌표 압축</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeSearch/" style="color:#0FA678">[BaekJoon] 백준 1991번 : 트리 순회</a>
-
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
@@ -140,6 +138,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindRoute/" style="color:#0FA678">[BaekJoon] 백준 11430번 : 경로 찾기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_RGB/" style="color:#0FA678">[BaekJoon] 백준 1149번 : RGB거리</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeSearch/" style="color:#0FA678">[BaekJoon] 백준 1991번 : 트리 순회</a>
 
 ### Gold 5
 
