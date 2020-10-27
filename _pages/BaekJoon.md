@@ -167,6 +167,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Dijkstra/" style="color:#0FA678">[BaekJoon] 백준 1504번 : 특정한 최단 경로</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Lier/" style="color:#0FA678">[BaekJoon] 백준 1043번 : 거짓말</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
