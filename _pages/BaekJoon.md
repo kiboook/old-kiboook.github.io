@@ -93,6 +93,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_2xN2/" style="color:#0FA678">[BaekJoon] 백준 11726번 : 2xn 타일링 2</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM2/" style="color:#0FA678">[BaekJoon] 백준 15650번 : N과 M (2)</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
