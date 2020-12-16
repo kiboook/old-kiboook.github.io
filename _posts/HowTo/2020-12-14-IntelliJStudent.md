@@ -45,3 +45,5 @@ JetBrains 에 학생인증을 받으면 라이센스 기간동안 제공하는 I
 ![image](https://user-images.githubusercontent.com/54533309/102096891-8f804080-3e68-11eb-9e0b-ef4fa740ce2e.png)
 
 라이센스 만료 한 달 전에 JetBrains 에서 갱신 메일이 온다고 하니 꼭 갱신하도록 하자.
+
+<br>
