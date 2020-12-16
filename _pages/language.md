@@ -5,8 +5,6 @@ layout: category
 author_profile: true
 ---
 
-{% include adsense.html %}
-
 # <span style="font-size: 45px">Language</span>
 
 ---
