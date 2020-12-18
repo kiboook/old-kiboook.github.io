@@ -97,6 +97,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM4/" style="color:#0FA678">[BaekJoon] 백준 15652번 : N과 M (4)</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM5/" style="color:#0FA678">[BaekJoon] 백준 15654번 : N과 M (5)</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
