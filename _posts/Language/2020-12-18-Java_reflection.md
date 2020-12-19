@@ -1,5 +1,5 @@
 ---
-title:  "[Java] Reflection 프로그래밍"
+title:  "[Java] 리플렉션(Reflection) 프로그래밍"
 excerpt: ""
 
 categories:

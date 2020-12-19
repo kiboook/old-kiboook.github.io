@@ -1,5 +1,5 @@
 ---
-title:  "[Java] Singleton pattern 구현"
+title:  "[Java] 싱글톤 패턴(Singleton pattern) 구현"
 excerpt: ""
 
 categories:

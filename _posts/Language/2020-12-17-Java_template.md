@@ -1,5 +1,5 @@
 ---
-title:  "[Java] Template Method"
+title:  "[Java] 템플릿 메소드(Template Method) 구현"
 excerpt: ""
 
 categories:
