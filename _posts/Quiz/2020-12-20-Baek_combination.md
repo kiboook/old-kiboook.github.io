@@ -8,7 +8,7 @@ categories:
 tags:
 ---
 
-## 백준 2407번 : 조합
+## 2407번 : 조합
 
 <center><img width="1150" alt="" src="https://user-images.githubusercontent.com/54533309/102714617-37878500-4313-11eb-926a-14ab68e957cc.png">
 </center>
