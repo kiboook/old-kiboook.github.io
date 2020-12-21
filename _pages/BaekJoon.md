@@ -123,6 +123,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_CoordEgg/" style="color:#0FA678">[BaekJoon] 백준 18870번 : 좌표 압축</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_combination/" style="color:#0FA678">[BaekJoon] 백준 2407번 : 조합</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_sticker/" style="color:#0FA678">[BaekJoon] 백준 9465번 : 스티커</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
