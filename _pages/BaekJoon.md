@@ -127,6 +127,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_sticker/" style="color:#0FA678">[BaekJoon] 백준 9465번 : 스티커</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_sequence1/" style="color:#0FA678">[BaekJoon] 백준 11053번 : 가장 긴 증가하는 부분 수열</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
