@@ -133,6 +133,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM9/" style="color:#0FA678">[BaekJoon] 백준 15663번 : N과 M (9)</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM12/" style="color:#0FA678">[BaekJoon] 백준 15666번 : N과 M (12)</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
