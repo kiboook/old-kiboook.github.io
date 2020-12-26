@@ -169,6 +169,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_IntTriangle/" style="color:#0FA678">[BaekJoon] 백준 1932번 : 정수 삼각형</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_BST/" style="color:#0FA678">[BaekJoon] 백준 5639번 : 이진 검색 트리</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
