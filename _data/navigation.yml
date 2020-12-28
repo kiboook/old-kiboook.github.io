@@ -18,8 +18,8 @@ main:
 #    url: /categories/Algorithm/
   - title: "Language"
     url: /categories/language/
-  - title: "Portfolio"
-    url: /categories/portfolio/
+#  - title: "Portfolio"
+#    url: /categories/portfolio/
   - title: "Category"
     url: /categories/
   - title: "About"
