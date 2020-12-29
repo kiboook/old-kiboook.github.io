@@ -193,6 +193,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_CheapestCost/" style="color:#0FA678">[BaekJoon] 백준 1916번 : 최소비용 구하기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_LCS/" style="color:#0FA678">[BaekJoon] 백준 9251번 : LCS</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
