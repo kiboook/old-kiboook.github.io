@@ -1,5 +1,5 @@
 ---
-title:  "[Spring] 스프링 부트 개발환경 구축하기"
+title:  "[Spring] 스프링 부트 개발환경 구축"
 excerpt: ""
 
 categories:
