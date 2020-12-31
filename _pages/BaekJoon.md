@@ -197,6 +197,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NQueen/" style="color:#0FA678">[BaekJoon] 백준 9663번 : N-Queen</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_HideAndSeek2/" style="color:#0FA678">[BaekJoon] 백준 12851번 : 숨바꼭질 2</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
