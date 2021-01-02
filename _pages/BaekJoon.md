@@ -199,6 +199,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_HideAndSeek2/" style="color:#0FA678">[BaekJoon] 백준 12851번 : 숨바꼭질 2</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_CommonBag/" style="color:#0FA678">[BaekJoon] 백준 12865번 : 평범한 배낭</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_HideAndSeek3/" style="color:#0FA678">[BaekJoon] 백준 13549번 : 숨바꼭질 3</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
