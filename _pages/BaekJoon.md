@@ -207,6 +207,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_MovePipe1/" style="color:#0FA678">[BaekJoon] 백준 17070번 : 파이프 옮기기 1</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_MicroDust/" style="color:#0FA678">[BaekJoon] 백준 17144번 : 미세먼지 안녕!</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
