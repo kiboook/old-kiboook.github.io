@@ -56,7 +56,7 @@ public interface PostsRepository extends JpaRepository<Posts, Long> {
 
 **@Query**
 
-Spring Data JPA 가 제공하지 않는 쿼리문은 어노테이션을 통해 작성 할 수 있다.
+Spring Data JPA 가 제공하지 않는 메소드는 어노테이션을 통해 작성 할 수 있다.
 
 물론 위 쿼리는 기본 제공 메소드로 해결할 수 있지만 이런 방법이 있다는 것을 알려주려고 일부러 이렇게 했다고 한다.
 
