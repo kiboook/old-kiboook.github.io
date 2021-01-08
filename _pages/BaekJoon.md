@@ -223,6 +223,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TopToBottom/" style="color:#0FA678">[BaekJoon] 백준 2096번 : 내려가기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_BreakWall/" style="color:#0FA678">[BaekJoon] 백준 2206번 : 벽 부수고 이동하기</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
