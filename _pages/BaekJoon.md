@@ -39,7 +39,7 @@ author_profile: true
 
 ### Silver 5
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Set/" style="color:#0FA678">[BaekJoon] 백준 11723번 : 집합</a>
 
@@ -51,7 +51,7 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindNum/" style="color:#0FA678">[BaekJoon] 백준 1920번 : 수 찾기</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Balance/" style="color:#0FA678">[BaekJoon] 백준 4949번 : 균형잡힌 세상</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Balance/" style="color:#0FA678">[BaekJoon] 백준 4949번 : 균형잡힌 세상</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Parenthesis/" style="color:#0FA678">[BaekJoon] 백준 9012번 : 괄호</a>
 
@@ -226,6 +226,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_BreakWall/" style="color:#0FA678">[BaekJoon] 백준 2206번 : 벽 부수고 이동하기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cheese/" style="color:#0FA678">[BaekJoon] 백준 2638번 : 치즈</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Bomb/" style="color:#0FA678">[BaekJoon] 백준 9935번 : 문자열 폭발</a>
 
 ### Gold 3
 
