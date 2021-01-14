@@ -33,6 +33,8 @@ author_profile: true
 
 [2021.01.12] **Gold 4** 달성! **CLASS 4** 문제푸는중..
 
+[2021.01.14] **CLASS 4** 에 있는 **Gold 5** 문제는 다풀었지만 아직 실력은 그대로인 것 같아 백준 문제집에서 적당한 문제 찾아 푸는중..
+
 ---
 
 ### Bronze 1
@@ -136,6 +138,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM9/" style="color:#0FA678">[BaekJoon] 백준 15663번 : N과 M (9)</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NandM12/" style="color:#0FA678">[BaekJoon] 백준 15666번 : N과 M (12)</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Relationship/" style="color:#0FA678">[BaekJoon] 백준 2644번 : 촌수계산</a>
 
 ### Silver 1
 
