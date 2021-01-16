@@ -181,6 +181,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_AtoB/" style="color:#0FA678">[BaekJoon] 백준 16953번 : A to B</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_SafeArea/" style="color:#0FA678">[BaekJoon] 백준 2468번 : 안전 영역</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
