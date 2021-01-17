@@ -241,6 +241,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_BattleGround/" style="color:#0FA678">[BaekJoon] 백준 14938번 : 서강그라운드</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Iceberg/" style="color:#0FA678">[BaekJoon] 백준 2573번 : 빙산</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
