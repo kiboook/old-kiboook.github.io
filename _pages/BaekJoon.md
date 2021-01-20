@@ -41,6 +41,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Terminal/" style="color:#0FA678">[BaekJoon] 백준 1032번 : 명령 프롬프트</a>
 
+### Bronze 2
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_SumSquare/" style="color:#0FA678">[BaekJoon] 백준 2669번 : 직사각형 네개의 합집합의 면적 구하기</a>
+
 ### Silver 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
