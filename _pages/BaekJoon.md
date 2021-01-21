@@ -227,6 +227,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ChoiceNum/" style="color:#0FA678">[BaekJoon] 백준 2668번 : 숫자고르기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_ChoiceMaster/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2660번 : 회장뽑기</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
