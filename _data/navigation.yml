@@ -12,8 +12,8 @@ main:
     url: /categories/Programmers/
   - title: "BaekJoon"
     url: /categories/BaekJoon/
-  - title: "LeetCode"
-    url: /categories/LeetCode/
+#  - title: "LeetCode"
+#    url: /categories/LeetCode/
 #  - title: "Algorithm"
 #    url: /categories/Algorithm/
   - title: "Language"
