@@ -4,7 +4,7 @@ DAY=$(date +%d)
 
 echo "> Git add TIL ...\n"
 
-git add _posts/TDL/$YEAR-$MONTH-$DAY-$(date +%y)$MONTH$(date +%d)TDL.md
+git add _posts/TIL/$YEAR-$MONTH-$DAY-$(date +%y)$MONTH$(date +%d)TIL.md
 
 sleep 1
 
