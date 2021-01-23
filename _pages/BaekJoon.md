@@ -145,6 +145,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Relationship/" style="color:#0FA678">[BaekJoon] 백준 2644번 : 촌수계산</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Polygon/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2641번 : 다각형그리기</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
