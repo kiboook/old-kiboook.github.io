@@ -7,6 +7,10 @@ author_profile: true
 
 {% include adsense.html %}
 
+<a href="https://solved.ac/nkb7714">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nkb7714">
+</a>
+
 ### 매일 <a href="https://www.acmicpc.net/" style="color:#0FA678" target="_blank">백준</a> 에 있는 문제 풀기
 
 [2020.08.24] 시작!
@@ -230,6 +234,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ChoiceNum/" style="color:#0FA678">[BaekJoon] 백준 2668번 : 숫자고르기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ChoiceMaster/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2660번 : 회장뽑기</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_MakePassword/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1759번 : 암호 만들기</a>
 
 ### Gold 4
 
