@@ -9,39 +9,39 @@ author_profile: true
 
 ### 매일 <a href="https://programmers.co.kr/learn/challenges" style="color:#0FA678" target="_blank">프로그래머스</a> 에 있는 코딩 테스트 한 문제 씩 풀기
 
-[2020.06.14] 시작!
+[2020.06.14] 시작!<br>
+[2020.07.14] 파일이 많아져 README 파일이 보이지 않아 폴더로 묶었읍니다.
 
-<img src="https://nam-ki-bok.github.io/assets/images/programmers/myskill.png" style="zoom:25%;" />
+<img src="https://nam-ki-bok.github.io/assets/images/programmers/myskill2.png" width="500"/>
 
 [2020.08.24]
 
-LEVEL 1, 2 문제를 모두 풀고 스킬 체크 시험을 통해 LEVEL 2 까지 인증했다.
-
-LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려워져서 백준으로 여러가지 자료구조 활용을 연습하고 다시 도전해야겠다..
+LEVEL 1, 2 문제를 모두 풀고 스킬 체크 시험을 통해 LEVEL 2 까지 인증했다.  
+LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려워져서  
+백준으로 여러가지 자료구조 활용을 연습하고 다시 도전해야겠다..
+<br>
 
 ### 2017 팁스타운
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_RemoveBuddy/" style="color:#0FA678">[Programmers] 짝지어 제거하기</a>
 
-<br>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_ExpectedGame/" style="color:#0FA678">[Programmers] 예상 대진표</a>
 
 ### Summer/Winter Coding(~2018)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Skill/" style="color:#0FA678">[Programmers] 스킬트리</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Coordinate/" style="color:#0FA678">[Programmers] 방문 길이</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Coordinate/" style="color:#0FA678">[Programmers] 방문 길이</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_PrimeNum/" style="color:#0FA678">[Programmers] 소수 만들기</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_PrimeNum/" style="color:#0FA678">[Programmers] 소수 만들기</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Jump/" style="color:#0FA678">[Programmers] 점프와 순간이동</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Jump/" style="color:#0FA678">[Programmers] 점프와 순간이동</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_NumGame/" style="color:#0FA678">[Programmers] 숫자게임</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NumGame/" style="color:#0FA678">[Programmers] 숫자게임</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_English/" style="color:#0FA678">[Programmers] 영어 끝말잇기</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_English/" style="color:#0FA678">[Programmers] 영어 끝말잇기</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Budget/" style="color:#0FA678">[Programmers] 예산</a>
-
-<br>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Budget/" style="color:#0FA678">[Programmers] 예산</a>
 
 ### 2018 KAKAO BLIND RECRUITMENT
 
@@ -59,17 +59,13 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Egg/" style="color:#0FA678">[Programmers] 압축</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_FileSort/" style="color:#0FA678">[Programmers] 파일명 정렬</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_FileSort/" style="color:#0FA678">[Programmers] 파일명 정렬</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_NGame/" style="color:#0FA678">[Programmers] n진수 게임</a>
-
-<br>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NGame/" style="color:#0FA678">[Programmers] n진수 게임</a>
 
 ### Summer/Winter Coding(~2019)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Ractangle/" style="color:#0FA678">[Programmers] 멀쩡한 사각형</a>
-
-<br>
 
 ### 2019 KAKAO BLIND RECRUITMENT
 
@@ -79,15 +75,11 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_CandidateKey/" style="color:#0FA678">[Programmers] 후보키</a>
 
-<br>
-
 ### 2019 카카오 개발자 겨울 인턴십
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Doll/" style="color:#0FA678">[Programmers] 크레인 인형뽑기 게임</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Doll/" style="color:#0FA678">[Programmers] 크레인 인형뽑기 게임</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Tuple/" style="color:#0FA678">[Programmers] 튜플</a>
-
-<br>
 
 ### 2020 KAKAO BLIND RECRUITMENT
 
@@ -95,37 +87,31 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_ChangePart/" style="color:#0FA678">[Programmers] 괄호 변환</a>
 
-<br>
-
 ### 2020 카카오 인턴십
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Keypad/" style="color:#0FA678">[Programmers] 키패드 누르기</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax/" style="color:#0FA678">[Programmers] 수식 최대화</a>, <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax2/" style="color:#0FA678">[Programmers] 수식 최대화 코드 분석</a>
 
-<br>
+### 2021 KAKAO BLIND RECRUITMENT
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MenuRenewal/" style="color:#0FA678">[Programmers] 메뉴 리뉴얼</a>
 
 ### 찾아라 프로그래밍 마에스터
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Ponketmon/" style="color:#0FA678">[Programmers] 폰켓몬</a>
 
-<br>
-
 ### 월간 코드 챌린지 시즌 1
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_TrioTree/" style="color:#0FA678">[Programmers] 트리 트리오 중간값</a>
 
-<br>
-
 ### Hash
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Maraton/" style="color:#0FA678">[Programmers] 완주하지 못한 선수</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Maraton/" style="color:#0FA678">[Programmers] 완주하지 못한 선수</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_PhoneBook/" style="color:#0FA678">[Programmers] 전화번호 목록</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Camouflage/" style="color:#0FA678">[Programmers] 위장</a>
-
-<br>
 
 ### 완전탐색
 
@@ -137,13 +123,9 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Carpet/" style="color:#0FA678">[Programmers] 카펫</a>
 
-<br>
-
 ### DFS / BFS
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_TargetNum/" style="color:#0FA678">[Programmers] 타겟넘버</a>
-
-<br>
 
 ### 정렬
 
@@ -152,8 +134,6 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_HIndex/" style="color:#0FA678">[Programmers] H-Index</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_MakeBigNum2/" style="color:#0FA678">[Programmers] 가장 큰 수</a>
-
-<br>
 
 ### 탐욕법 (Greedy)
 
@@ -164,8 +144,6 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_JoyStick/" style="color:#0FA678">[Programmers] 조이스틱</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_ResqueBoat/" style="color:#0FA678">[Programmers] 구명보트</a>
-
-<br>
 
 ### 스택/큐
 
@@ -181,25 +159,21 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Stick/" style="color:#0FA678">[Programmers] 쇠막대기</a>
 
-<br>
-
 ### 힙 (Heap)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_MoreHot/" style="color:#0FA678">[Programmers] 더 맵게</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Flour/" style="color:#0FA678">[Programmers] 라면공장</a>
 
-<br>
-
 ### 연습문제
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_Division/" style="color:#0FA678">[Programmers] 나누어 떨어지는 숫자 배열</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Division/" style="color:#0FA678">[Programmers] 나누어 떨어지는 숫자 배열</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_124/" style="color:#0FA678">[Programmers] 124의 나라</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_124/" style="color:#0FA678">[Programmers] 124의 나라</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_BigSquare/" style="color:#0FA678">[Programmers] 가장 큰 정사각형 찾기</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_CorrectPart/" style="color:#0FA678">[Programmers] 올바른 괄호</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_CorrectPart/" style="color:#0FA678">[Programmers] 올바른 괄호</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_NextNum/" style="color:#0FA678">[Programmers] 다음 큰 숫자</a>
 
@@ -209,13 +183,12 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_MaxMin/" style="color:#0FA678">[Programmers] 최댓값과 최솟값</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_MakeMin/" style="color:#0FA678">[Programmers] 최솟값 만들기</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MakeMin/" style="color:#0FA678">[Programmers] 최솟값 만들기</a>
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Fibonacci/" style="color:#0FA678">[Programmers] 피보나치 수</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_ArrayMulti/" style="color:#0FA678">[Programmers] 행렬의 곱셈</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_JadenCase/" style="color:#0FA678">[Programmers] JadenCase 문자열 만들기</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_NLCM/" style="color:#0FA678">[Programmers] N개의 최소공배수</a>
-
-<br>
-
