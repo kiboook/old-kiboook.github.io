@@ -63,7 +63,7 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_NGame/" style="color:#0FA678">[Programmers] n진수 게임</a>
 
-### Summer/Winter Coding(~2019)
+### Summer/Winter Coding (~2019)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Ractangle/" style="color:#0FA678">[Programmers] 멀쩡한 사각형</a>
 
@@ -94,6 +94,8 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax/" style="color:#0FA678">[Programmers] 수식 최대화</a>, <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax2/" style="color:#0FA678">[Programmers] 수식 최대화 코드 분석</a>
 
 ### 2021 KAKAO BLIND RECRUITMENT
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NewID/" style="color:#0FA678">[Programmers] 신규 아이디 추천</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_MenuRenewal/" style="color:#0FA678">[Programmers] 메뉴 리뉴얼</a>
 
