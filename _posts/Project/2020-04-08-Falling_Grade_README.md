@@ -22,9 +22,7 @@ tags:
 
 ***
 
-
-
-![](https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/XD_image.png)
+![image](https://user-images.githubusercontent.com/54533309/106146318-e1331f00-61b9-11eb-89d5-712e928cc3ea.png)
 
 ## 개요
 
@@ -36,7 +34,7 @@ tags:
 
 그리고 우리에게 친근하게 다가 올 수 있는 주제인 학점을 더해
 
-위에서 떨어지는 학점을 얻는 게임을 만들기로 했다.
+## 위에서 떨어지는 학점을 얻는 게임을 만들기로 했다.
 
 그렇다면 상대적으로 낮은 학점은 총알 피하기 처럼 피하려고 할 것 이고
 
@@ -235,6 +233,6 @@ public void run() {
 ## 플레이 영상
 
 <video width="640" height="360" controls>
-   <source src="https://nam-ki-bok.github.io/KibokWebPortfolio/images/FallingGrade/FallingGradeInGame.mp4" type="video/mp4">
-</video>
+   <source src="https://user-images.githubusercontent.com/54533309/106145763-44708180-61b9-11eb-8bb1-cda742218ea6.mp4" type="video/mp4">
+
 
