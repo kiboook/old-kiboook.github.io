@@ -269,6 +269,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Party/" style="color:#0FA678">[BaekJoon] 백준 1238번 : 파티</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindPreOrder/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2263번 : 트리의 순회</a>
+
 ### Gold 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NoSquare/" style="color:#0FA678">[BaekJoon] 백준 1016번 : 제곱 ㄴㄴ수</a>
