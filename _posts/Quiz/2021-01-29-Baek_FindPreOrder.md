@@ -105,12 +105,12 @@ def solution(in_order_start, in_order_end, post_order_start, post_order_end):
 	root_index = root_index_dict[root]
 	print(root, end=" ")
 
-	in_order_split_len = root_index - in_order_start
+	in_order_len = root_index - in_order_start
 	# left
-	solution(in_order_start, root_index - 1, post_order_start, post_order_start + in_order_split_len - 1)
+	solution(in_order_start, root_index - 1, post_order_start, post_order_start + in_order_len - 1)
 
 	# right
-	solution(root_index + 1, in_order_end, post_order_start + in_order_split_len, post_order_end - 1)
+	solution(root_index + 1, in_order_end, post_order_start + in_order_len, post_order_end - 1)
 
 
 if __name__ == '__main__':
