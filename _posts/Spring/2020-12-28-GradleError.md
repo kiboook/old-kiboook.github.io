@@ -4,6 +4,7 @@ excerpt: ""
 
 categories:
   - Spring
+  - springboot-webservice
 
 tags:
 ---
@@ -30,4 +31,4 @@ classpath 에서 springBootVersion 변수를 찾지 못해 No candidates found f
 
 두 번째 해결방법은 **인텔리제이를 재부팅** 하면 해결 된다..
 
-<br>
+## <br>
