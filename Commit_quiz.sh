@@ -2,8 +2,9 @@ YEAR=$(date +%Y)
 MONTH=$(date +%m)
 DAY=$(date +%d)
 
-echo "> Git add Baekjoon Page ...\n"
+echo "> Git add Quiz and BaekJoon Page ...\n"
 
+git add _posts/Quiz
 git add _pages/BaekJoon.md
 
 sleep 1
@@ -18,4 +19,4 @@ echo "\n> Git Push ...\n"
 
 git push -u origin master
 
-echo "\n> SUCCESS PUSH [$YEAR.$MONTH.$DAY] Baekjoon Page"
+echo "\n> SUCCESS PUSH [$YEAR.$MONTH.$DAY] Quiz and BaekJoon Page"
