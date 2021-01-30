@@ -1,5 +1,5 @@
 ---
-title:  "[Spring] 전체 Post 조회 화면 만들기"
+title:  "[springboot-webserivce] 전체 Post 조회 화면 만들기"
 excerpt: ""
 
 categories:

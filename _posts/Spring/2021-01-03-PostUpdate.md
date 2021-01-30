@@ -1,5 +1,5 @@
 ---
-title:  "[Spring] Post 수정/조회 API 생성 및 분석과 테스트"
+title:  "[springboot-webserivce] Post 수정/조회 API 생성 및 분석과 테스트"
 excerpt: ""
 
 categories:

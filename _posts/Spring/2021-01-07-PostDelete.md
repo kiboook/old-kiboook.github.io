@@ -1,5 +1,5 @@
 ---
-title:  "[Spring] Post 수정 / 삭제 화면 만들기"
+title:  "[springboot-webserivce] Post 수정 / 삭제 화면 만들기"
 excerpt: ""
 
 categories:
