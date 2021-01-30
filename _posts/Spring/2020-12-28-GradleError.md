@@ -1,10 +1,9 @@
 ---
-title:  "[Spring] Gradle - No candidates found for method call plugins 오류 해결"
+title:  "[springboot-webserivce] Gradle - No candidates found for method call plugins 오류 해결"
 excerpt: ""
 
 categories:
   - Spring
-  - springboot-webservice
 
 tags:
 ---
