@@ -251,6 +251,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_largestSqr/" style="color:#0FA678" target="_blank">[BaekJoon] 1915번 : 가장 큰 정사각형</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tower/" style="color:#0FA678" target="_blank">[BaekJoon] 2493번 : 탑</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
