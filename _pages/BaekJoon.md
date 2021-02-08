@@ -277,6 +277,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Iceberg/" style="color:#0FA678">[BaekJoon] 백준 2573번 : 빙산</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_MST/" style="color:#0FA678" target="_blank">[[BaekJoon] 1197번 : 최소 스패닝 트리</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
