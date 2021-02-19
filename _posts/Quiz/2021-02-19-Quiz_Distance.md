@@ -26,45 +26,34 @@ tags:
 
 주어진 명령대로 좌표를 탐색하면서 길을 처음 사용하는 경우에만 처음 걸어본 길의 길이에 더하면 된다.
 
-사용 한 길을 체크하는 코드를 줄일 수 있을 것 같기도 한데.. 그건 생각해 봐야겠다.
-
 ---
 
 ```python
 def solution(dirs):
 	answer = 0
-	road = [[[0, 0, 0, 0] for _ in range(11)] for _ in range(11)]
+	road = [[[True, True, True, True] for _ in range(11)] for _ in range(11)]
 	move = {
 		'U': [-1, 0],
 		'R': [0, 1],
 		'D': [1, 0],
-		'L': [0, -1]
+		'L': [0, -1],
+	}
+	head = {
+		'U': [0, 2],
+		'R': [1, 3],
+		'D': [2, 0],
+		'L': [3, 1],
 	}
 
-	cur_i, cur_j = 5, 5
+	cur_i, cur_j = [5, 5]
 	for val in dirs:
 		visit_i, visit_j = cur_i + move[val][0], cur_j + move[val][1]
 		if 0 <= visit_i <= 10 and 0 <= visit_j <= 10:
-			if val == 'U':
-				if road[cur_i][cur_j][0] == 0 and road[visit_i][visit_j][2] == 0:
-					answer += 1
-					road[cur_i][cur_j][0] = 1
-					road[visit_i][visit_j][2] = 1
-			if val == 'R':
-				if road[cur_i][cur_j][1] == 0 and road[visit_i][visit_j][3] == 0:
-					answer += 1
-					road[cur_i][cur_j][1] = 1
-					road[visit_i][visit_j][3] = 1
-			if val == 'D':
-				if road[cur_i][cur_j][2] == 0 and road[visit_i][visit_j][0] == 0:
-					answer += 1
-					road[cur_i][cur_j][2] = 1
-					road[visit_i][visit_j][0] = 1
-			if val == 'L':
-				if road[cur_i][cur_j][3] == 0 and road[visit_i][visit_j][1] == 0:
-					answer += 1
-					road[cur_i][cur_j][3] = 1
-					road[visit_i][visit_j][1] = 1
+			if road[cur_i][cur_j][head[val][0]] and road[visit_i][visit_j][head[val][1]]:
+				answer += 1
+				road[cur_i][cur_j][head[val][0]] = False
+				road[visit_i][visit_j][head[val][1]] = False
+
 			cur_i = visit_i
 			cur_j = visit_j
 
