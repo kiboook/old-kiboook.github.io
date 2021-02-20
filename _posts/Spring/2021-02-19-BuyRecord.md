@@ -199,7 +199,7 @@ ApiClient 에서 spid 자체를 이미지 URL 로 변경 해주었기 때문에 
 
 ## 📬 정리
 
-<img src="https://user-images.githubusercontent.com/54533309/108509350-78dee580-7300-11eb-88cd-c9654fb8e1d0.gif" alt="ezgif com-gif-maker" width=800; />
+![스크린샷 2021-02-20 오후 8 44 54](https://user-images.githubusercontent.com/54533309/108594291-7e016a80-73bc-11eb-91ea-a6a82fe93ac7.png)
 
 판매 기록까지 완성한 뒤 거래 내역을 더 많이 가져오고 페이지를 나누는 과정까지 해야겠다.
 
