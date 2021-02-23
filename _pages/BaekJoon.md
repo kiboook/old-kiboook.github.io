@@ -57,6 +57,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Four/" style="color:#0FA678">[BaekJoon] 백준 17626번 : Four Squares</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_1439/" style="color:#0FA678" target="_blank">[BaekJoon] 1439번 : 뒤집기</a>
+
 ### Silver 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Sequence/" style="color:#0FA678">[BaekJoon] 백준 1015번 : 수열 정렬</a>
