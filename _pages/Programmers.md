@@ -129,6 +129,8 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Camouflage/" style="color:#0FA678">[Programmers] 위장</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_BestAlbum/" style="color:#0FA678">[Programmers] 베스트앨범</a>
+
 ### 완전탐색
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_MockTest/" style="color:#0FA678">[Programmers] 모의고사</a>
