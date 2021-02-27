@@ -153,7 +153,7 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Polygon/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2641번 : 다각형그리기</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_largestSqr/" style="color:#0FA678" target="_blank">[BaekJoon] 18352번 : 특정 거리의 도시 찾기</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_l8352/" style="color:#0FA678" target="_blank">[BaekJoon] 18352번 : 특정 거리의 도시 찾기</a>
 
 ### Silver 1
 
@@ -256,6 +256,8 @@ author_profile: true
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_largestSqr/" style="color:#0FA678" target="_blank">[BaekJoon] 1915번 : 가장 큰 정사각형</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tower/" style="color:#0FA678" target="_blank">[BaekJoon] 2493번 : 탑</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_15591/" style="color:#0FA678" target="_blank">[BaekJoon] 15591번 : MooTube</a>
 
 ### Gold 4
 
