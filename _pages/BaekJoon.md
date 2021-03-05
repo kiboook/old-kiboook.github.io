@@ -199,6 +199,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_18405/" style="color:#0FA678" target="_blank">[BaekJoon] 18405번 : 경쟁적 전염</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_18428/" style="color:#0FA678" target="_blank">[BaekJoon] 18428번 : 감시 피하기</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
