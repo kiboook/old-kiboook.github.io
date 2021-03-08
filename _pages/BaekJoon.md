@@ -203,6 +203,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_14888/" style="color:#0FA678" target="_blank">[BaekJoon] 14888번 : 연산자 끼워넣기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_2110/" style="color:#0FA678" target="_blank">[BaekJoon] 2110번 : 공유기 설치</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
