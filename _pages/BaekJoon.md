@@ -315,6 +315,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindPreOrder/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2263번 : 트리의 순회</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_11054/" style="color:#0FA678" target="_blank">[BaekJoon] 11054번 : 가장 긴 바이토닉 부분 수열</a>
+
 ### Gold 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NoSquare/" style="color:#0FA678">[BaekJoon] 백준 1016번 : 제곱 ㄴㄴ수</a>
