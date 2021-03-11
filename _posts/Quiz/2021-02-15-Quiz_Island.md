@@ -23,23 +23,32 @@ tags:
 ---
 
 ```python
+def find_parent(parent, node):
+	if parent[node] != node:
+		parent[node] = find_parent(parent, parent[node])
+
+	return parent[node]
+
+
+def union_parent(parent, a, b):
+	a = find_parent(parent, a)
+	b = find_parent(parent, b)
+	if a < b:
+		parent[b] = a
+	else:
+		parent[a] = b
+
+
 def solution(n, costs):
 	answer = 0
+	parent = [i for i in range(n + 1)]
 	costs.sort(key=lambda x: x[2])
-	connection = [0]
 
-	while len(connection) != n:
-		for i in costs:
-			start, end, cost = i
-			if start in connection and end in connection:
-				continue
-
-			if start in connection or end in connection:
-				connection.append(start)
-				connection.append(end)
-				connection = list(set(connection))
-				answer += cost
-				break
+	for edge in costs:
+		a, b, cost = edge
+		if find_parent(parent, a) != find_parent(parent, b):
+			union_parent(parent, a, b)
+			answer += cost
 
 	return answer
 ```
