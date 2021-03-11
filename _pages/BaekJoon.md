@@ -283,6 +283,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_10216/" style="color:#0FA678" target="_blank">[BaekJoon] 10216번 : Count Circle Groups</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_17836/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 17836번 : 공주님을 구해라!</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
