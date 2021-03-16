@@ -289,6 +289,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_1600/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1600번 : 말이 되고픈 원숭이</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_1446/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1446번 : 지름길</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
