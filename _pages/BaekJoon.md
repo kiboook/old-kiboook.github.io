@@ -345,6 +345,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_11054/" style="color:#0FA678" target="_blank">[BaekJoon] 11054번 : 가장 긴 바이토닉 부분 수열</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_11779/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 11779번 : 최소비용 구하기 2</a>
+
 ### Gold 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NoSquare/" style="color:#0FA678">[BaekJoon] 백준 1016번 : 제곱 ㄴㄴ수</a>
