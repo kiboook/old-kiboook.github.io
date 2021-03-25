@@ -221,6 +221,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_15486/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 15486번 : 퇴사2</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_12852/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 12852번 : 1로 만들기 2</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
