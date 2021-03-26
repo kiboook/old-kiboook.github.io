@@ -297,6 +297,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_13023/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 13023번 : ABCDE</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_2467/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2467번 : 용액</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
