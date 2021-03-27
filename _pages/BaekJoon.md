@@ -337,6 +337,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_4179/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 4179번 : 불!</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_1806/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1806번 : 부분합</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
