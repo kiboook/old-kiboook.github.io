@@ -343,6 +343,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_2056/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2056번 : 작업</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_2473/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2473번 : 세 용액</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
