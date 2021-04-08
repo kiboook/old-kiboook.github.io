@@ -349,6 +349,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_2166/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 9466번 : 텀 프로젝트</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_17404/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 17404번 : RGB거리 2</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
