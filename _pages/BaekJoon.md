@@ -351,6 +351,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_17404/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 17404번 : RGB거리 2</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_20040/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 20040번 : 사이클 게임</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
