@@ -1,11 +1,13 @@
 YEAR=$(date +%Y)
+
 MONTH=$(date +%m)
 DAY=$(date +%d)
 
-echo "> Git add Quiz and BaekJoon Page ...\n"
+echo "> Git add Quiz and BaekJoon Page or Programmers Page ...\n"
 
 git add _posts/Quiz
 git add _pages/BaekJoon.md
+git add _pages/Programmers.md
 
 sleep 1
 
