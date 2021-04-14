@@ -12,6 +12,9 @@ tags:
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/12971" style="color:#0FA678">스티커 모으기 (2)</a> 를 클릭하면 바로 이동한다.
 
+<center><img width="650" alt="" src="https://user-images.githubusercontent.com/54533309/114658261-7dd27b00-9d2c-11eb-8098-4fec6962c05d.png">
+</center>
+
 <br>
 
 처음 문제를 풀 땐 규칙이 있어 보여 그 규칙으로 문제를 풀었다.
