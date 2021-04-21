@@ -143,6 +143,10 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Carpet/" style="color:#0FA678">[Programmers] 카펫</a>
 
+### 이분탐색
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_43238/" style="color:#0FA678">[Programmers] 입국심사</a>
+
 ### 그래프
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_farNode/" style="color:#0FA678">[Programmers] 가장 먼 노드</a>
