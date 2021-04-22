@@ -201,6 +201,8 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Flour/" style="color:#0FA678">[Programmers] 라면공장</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_42627/" style="color:#0FA678">[Programmers] 디스크 컨트롤러</a>
+
 ### 동적계획법 (Dynamic Programming)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_IntTriangle/" style="color:#0FA678">[Programmers] 정수 삼각형</a>
