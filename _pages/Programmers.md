@@ -123,6 +123,8 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_77485/" style="color:#0FA678">[Programmers] 행렬 테두리 회전하기</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_77486/" style="color:#0FA678">[Programmers] 다단계 칫솔 판매</a>
+
 ### 찾아라 프로그래밍 마에스터
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Ponketmon/" style="color:#0FA678">[Programmers] 폰켓몬</a>
