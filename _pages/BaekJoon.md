@@ -169,6 +169,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_11055/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 11055번 : 가장 큰 증가 부분 수열</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_7562/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 7562번 : 나이트의 이동</a>
+
 ### Silver 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Kevin/" style="color:#0FA678">[BaekJoon] 백준 1389번 : 케빈 베이컨의 6단계 법칙</a>
