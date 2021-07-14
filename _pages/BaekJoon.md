@@ -369,6 +369,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_18223/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 18223번 : 민준이와 마산 그리고 건우</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_5427/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 5427번 : 불</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
