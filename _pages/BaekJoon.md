@@ -231,6 +231,10 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_2583/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2583번 : 영역 구하기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_13913/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 13913번 : 숨바꼭질 4</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_16928/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 16928번 : 뱀과 사다리 게임</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
