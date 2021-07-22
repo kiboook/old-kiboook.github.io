@@ -397,6 +397,8 @@ author_profile: true
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_1941/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1941번 : 소문난 칠공주</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_1644/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1644번 : 소수의 연속합</a>
+
 ### Gold 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NoSquare/" style="color:#0FA678">[BaekJoon] 백준 1016번 : 제곱 ㄴㄴ수</a>
