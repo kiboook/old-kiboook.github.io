@@ -13,8 +13,18 @@
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
-          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnam-ki-bok.github.io&count_bg=%239C9999&title_bg=%239C9999&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false"/></a>
     {% endif %}
   {% endif %}
+  <!-- visitor count view -->
+    <a href="https://hits.seeyoufarm.com">
+      <style>
+        .hits {
+          width: auto; height: auto;
+          max-width: 99px;
+          max-height: 20px;
+        }
+      </style>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnam-ki-bok.github.io&count_bg=%239C9999&title_bg=%239C9999&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false"/>
+    </a>
   </div>
 {% endif %}
